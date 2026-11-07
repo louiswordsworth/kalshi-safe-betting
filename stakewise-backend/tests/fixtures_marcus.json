@@ -1,0 +1,2230 @@
+{
+ "today": "2026-11-07",
+ "balance": 1450.0,
+ "transactions": [
+  {
+   "id": "2fa91425-cb00-8853-9d2c-67eda13ffe79",
+   "user_id": "00000000-0000-0000-0000-000000000002",
+   "posted_at": "2026-08-09T12:11:00Z",
+   "amount": -20.27,
+   "description": "ALDI 114 MANCHESTER",
+   "mcc": null
+  },
+  {
+   "id": "965eda32-dae4-4550-8201-e2bd73ab4876",
+   "user_id": "00000000-0000-0000-0000-000000000002",
+   "posted_at": "2026-08-09T17:54:00Z",
+   "amount": -22.56,
+   "description": "ALDI 114 MANCHESTER",
+   "mcc": null
+  },
+  {
+   "id": "fb710734-986e-86cb-0ab8-ab67a26b7f62",
+   "user_id": "00000000-0000-0000-0000-000000000002",
+   "posted_at": "2026-08-10T08:34:00Z",
+   "amount": -4.0,
+   "description": "TFGM BEE NETWORK BUS",
+   "mcc": null
+  },
+  {
+   "id": "9f8558a6-2851-8867-a66b-0d389d95847e",
+   "user_id": "00000000-0000-0000-0000-000000000002",
+   "posted_at": "2026-08-10T12:28:00Z",
+   "amount": -8.12,
+   "description": "PRET A MANGER",
+   "mcc": null
+  },
+  {
+   "id": "99809225-3def-fa38-e12b-2b8f30b17d0b",
+   "user_id": "00000000-0000-0000-0000-000000000002",
+   "posted_at": "2026-08-10T18:04:00Z",
+   "amount": -18.28,
+   "description": "AMAZON.CO.UK",
+   "mcc": null
+  },
+  {
+   "id": "3bd03346-84e5-5160-3200-94ead7a94ded",
+   "user_id": "00000000-0000-0000-0000-000000000002",
+   "posted_at": "2026-08-10T21:20:00Z",
+   "amount": -14.17,
+   "description": "UBER *TRIP",
+   "mcc": null
+  },
+  {
+   "id": "c20ba2c2-50b6-01fc-4105-cca7b53302fc",
+   "user_id": "00000000-0000-0000-0000-000000000002",
+   "posted_at": "2026-08-11T08:35:00Z",
+   "amount": -2.0,
+   "description": "TFGM BEE NETWORK BUS",
+   "mcc": null
+  },
+  {
+   "id": "66809a11-1ba1-192e-c42b-7170902a174f",
+   "user_id": "00000000-0000-0000-0000-000000000002",
+   "posted_at": "2026-08-11T12:18:00Z",
+   "amount": -5.62,
+   "description": "PRET A MANGER",
+   "mcc": null
+  },
+  {
+   "id": "ff666589-6822-a6b2-4735-af1ca7a11490",
+   "user_id": "00000000-0000-0000-0000-000000000002",
+   "posted_at": "2026-08-11T16:00:00Z",
+   "amount": -17.59,
+   "description": "ALDI 114 MANCHESTER",
+   "mcc": null
+  },
+  {
+   "id": "d8e94b15-0452-ef05-f542-441d111b8aaa",
+   "user_id": "00000000-0000-0000-0000-000000000002",
+   "posted_at": "2026-08-12T06:15:00Z",
+   "amount": -22.0,
+   "description": "VODAFONE LTD",
+   "mcc": null
+  },
+  {
+   "id": "78511608-0d65-0372-e907-94dfed52a241",
+   "user_id": "00000000-0000-0000-0000-000000000002",
+   "posted_at": "2026-08-12T08:13:00Z",
+   "amount": -2.0,
+   "description": "TFGM BEE NETWORK BUS",
+   "mcc": null
+  },
+  {
+   "id": "c74c7ccf-32d0-3fdd-a123-f50190f5380e",
+   "user_id": "00000000-0000-0000-0000-000000000002",
+   "posted_at": "2026-08-12T12:25:00Z",
+   "amount": -7.18,
+   "description": "PRET A MANGER",
+   "mcc": null
+  },
+  {
+   "id": "2d7c5048-7ca0-7386-cc09-9a1e77064c2c",
+   "user_id": "00000000-0000-0000-0000-000000000002",
+   "posted_at": "2026-08-13T08:00:00Z",
+   "amount": -2.0,
+   "description": "TFGM BEE NETWORK BUS",
+   "mcc": null
+  },
+  {
+   "id": "19de2bc1-b4ff-00ae-3f13-47de2274ea18",
+   "user_id": "00000000-0000-0000-0000-000000000002",
+   "posted_at": "2026-08-13T14:00:00Z",
+   "amount": -23.32,
+   "description": "TESCO STORES 2231",
+   "mcc": null
+  },
+  {
+   "id": "21870f0b-c4ff-64de-bb5d-6b48fc3b66fa",
+   "user_id": "00000000-0000-0000-0000-000000000002",
+   "posted_at": "2026-08-14T06:10:00Z",
+   "amount": -10.99,
+   "description": "NETFLIX.COM",
+   "mcc": null
+  },
+  {
+   "id": "fd42e044-0ac7-93f5-19af-685d93b3a3d9",
+   "user_id": "00000000-0000-0000-0000-000000000002",
+   "posted_at": "2026-08-14T08:38:00Z",
+   "amount": -4.0,
+   "description": "TFGM BEE NETWORK BUS",
+   "mcc": null
+  },
+  {
+   "id": "d48dd9f3-5436-6c21-9c3e-cb54c5cefdd8",
+   "user_id": "00000000-0000-0000-0000-000000000002",
+   "posted_at": "2026-08-14T12:28:00Z",
+   "amount": -6.53,
+   "description": "PRET A MANGER",
+   "mcc": null
+  },
+  {
+   "id": "feef16e9-64ef-2ebe-2ff3-600735f11af2",
+   "user_id": "00000000-0000-0000-0000-000000000002",
+   "posted_at": "2026-08-14T18:19:00Z",
+   "amount": -23.96,
+   "description": "TESCO STORES 2231",
+   "mcc": null
+  },
+  {
+   "id": "03f8670d-3e36-1858-a2f7-647a952e1b8b",
+   "user_id": "00000000-0000-0000-0000-000000000002",
+   "posted_at": "2026-08-14T19:04:00Z",
+   "amount": -20.01,
+   "description": "DELIVEROO",
+   "mcc": null
+  },
+  {
+   "id": "45114889-001e-dc8e-367e-5d6dfd741069",
+   "user_id": "00000000-0000-0000-0000-000000000002",
+   "posted_at": "2026-08-14T19:24:00Z",
+   "amount": -7.21,
+   "description": "ALDI 114 MANCHESTER",
+   "mcc": null
+  },
+  {
+   "id": "bd4aeab0-2891-dd3c-3096-c6c8b9b338eb",
+   "user_id": "00000000-0000-0000-0000-000000000002",
+   "posted_at": "2026-08-15T11:19:00Z",
+   "amount": -22.26,
+   "description": "M&S SIMPLY FOOD 0188",
+   "mcc": null
+  },
+  {
+   "id": "a0931ed4-2ecd-cc0a-62d7-4145ddd4a054",
+   "user_id": "00000000-0000-0000-0000-000000000002",
+   "posted_at": "2026-08-15T11:37:00Z",
+   "amount": -14.19,
+   "description": "M&S SIMPLY FOOD 0188",
+   "mcc": null
+  },
+  {
+   "id": "d15d9306-1194-ccac-fd3a-233d10304730",
+   "user_id": "00000000-0000-0000-0000-000000000002",
+   "posted_at": "2026-08-15T14:38:00Z",
+   "amount": -15.0,
+   "description": "BET365",
+   "mcc": "7995"
+  },
+  {
+   "id": "14186ebf-9a81-37e9-7b86-2eace1d7300f",
+   "user_id": "00000000-0000-0000-0000-000000000002",
+   "posted_at": "2026-08-15T19:35:00Z",
+   "amount": -23.31,
+   "description": "DISHOOM MANCHESTER",
+   "mcc": null
+  },
+  {
+   "id": "ea3a0683-ead8-1dcd-365f-dcd647bc7548",
+   "user_id": "00000000-0000-0000-0000-000000000002",
+   "posted_at": "2026-08-17T08:39:00Z",
+   "amount": -2.0,
+   "description": "TFGM BEE NETWORK BUS",
+   "mcc": null
+  },
+  {
+   "id": "0f7a0443-3fc2-a908-7219-c1da69534048",
+   "user_id": "00000000-0000-0000-0000-000000000002",
+   "posted_at": "2026-08-17T12:01:00Z",
+   "amount": -5.78,
+   "description": "PRET A MANGER",
+   "mcc": null
+  },
+  {
+   "id": "ede26c2e-2ce9-33e1-8523-95744b1e943e",
+   "user_id": "00000000-0000-0000-0000-000000000002",
+   "posted_at": "2026-08-17T13:26:00Z",
+   "amount": -20.65,
+   "description": "ALDI 114 MANCHESTER",
+   "mcc": null
+  },
+  {
+   "id": "5cb58b8e-1799-e728-21af-214af91acb8d",
+   "user_id": "00000000-0000-0000-0000-000000000002",
+   "posted_at": "2026-08-17T14:23:00Z",
+   "amount": -44.21,
+   "description": "AMAZON.CO.UK",
+   "mcc": null
+  },
+  {
+   "id": "9da9b14d-da36-e0d6-a74c-46118f32a1f2",
+   "user_id": "00000000-0000-0000-0000-000000000002",
+   "posted_at": "2026-08-17T20:04:00Z",
+   "amount": -7.4,
+   "description": "ALDI 114 MANCHESTER",
+   "mcc": null
+  },
+  {
+   "id": "4fa1d41f-bb01-ea75-1138-a4e47b73ccf8",
+   "user_id": "00000000-0000-0000-0000-000000000002",
+   "posted_at": "2026-08-18T08:40:00Z",
+   "amount": -2.0,
+   "description": "TFGM BEE NETWORK BUS",
+   "mcc": null
+  },
+  {
+   "id": "0b620dc6-bcac-6462-5e26-8fa08bcce7cd",
+   "user_id": "00000000-0000-0000-0000-000000000002",
+   "posted_at": "2026-08-18T12:04:00Z",
+   "amount": -5.8,
+   "description": "PRET A MANGER",
+   "mcc": null
+  },
+  {
+   "id": "0494b6d2-ec70-38c9-08fb-09a0970216fc",
+   "user_id": "00000000-0000-0000-0000-000000000002",
+   "posted_at": "2026-08-18T14:42:00Z",
+   "amount": -18.93,
+   "description": "M&S SIMPLY FOOD 0188",
+   "mcc": null
+  },
+  {
+   "id": "992ef438-0571-3dc6-0896-32e3f6782941",
+   "user_id": "00000000-0000-0000-0000-000000000002",
+   "posted_at": "2026-08-18T16:58:00Z",
+   "amount": -11.79,
+   "description": "WAITROSE MANCHESTER",
+   "mcc": null
+  },
+  {
+   "id": "03b86766-92a3-8328-7ffb-20e6dd0c8b94",
+   "user_id": "00000000-0000-0000-0000-000000000002",
+   "posted_at": "2026-08-19T08:26:00Z",
+   "amount": -2.0,
+   "description": "TFGM BEE NETWORK BUS",
+   "mcc": null
+  },
+  {
+   "id": "db77b923-df00-7dfa-13e2-22b8e69d2f3b",
+   "user_id": "00000000-0000-0000-0000-000000000002",
+   "posted_at": "2026-08-19T14:22:00Z",
+   "amount": -6.61,
+   "description": "ALDI 114 MANCHESTER",
+   "mcc": null
+  },
+  {
+   "id": "41d812cd-fe4a-5ce0-1d96-ac56a3b00043",
+   "user_id": "00000000-0000-0000-0000-000000000002",
+   "posted_at": "2026-08-20T08:05:00Z",
+   "amount": -2.0,
+   "description": "TFGM BEE NETWORK BUS",
+   "mcc": null
+  },
+  {
+   "id": "417e16c9-7c7d-faf5-eba3-8bf6a8fe622a",
+   "user_id": "00000000-0000-0000-0000-000000000002",
+   "posted_at": "2026-08-21T08:31:00Z",
+   "amount": -4.0,
+   "description": "TFGM BEE NETWORK BUS",
+   "mcc": null
+  },
+  {
+   "id": "1ce606fd-b2c6-0fdd-f517-e3823aefce2e",
+   "user_id": "00000000-0000-0000-0000-000000000002",
+   "posted_at": "2026-08-21T13:38:00Z",
+   "amount": -6.67,
+   "description": "TESCO STORES 2231",
+   "mcc": null
+  },
+  {
+   "id": "07a04e64-83b8-52d7-c00d-c63d84c955f1",
+   "user_id": "00000000-0000-0000-0000-000000000002",
+   "posted_at": "2026-08-21T16:29:00Z",
+   "amount": -20.93,
+   "description": "TESCO STORES 2231",
+   "mcc": null
+  },
+  {
+   "id": "e7dd5eed-c0f7-27ad-2b6b-5fce84b58297",
+   "user_id": "00000000-0000-0000-0000-000000000002",
+   "posted_at": "2026-08-21T19:09:00Z",
+   "amount": -36.31,
+   "description": "DELIVEROO",
+   "mcc": null
+  },
+  {
+   "id": "cdc02ecd-6e4f-2724-a259-2b9d32d1464e",
+   "user_id": "00000000-0000-0000-0000-000000000002",
+   "posted_at": "2026-08-22T12:20:00Z",
+   "amount": -12.69,
+   "description": "WAITROSE MANCHESTER",
+   "mcc": null
+  },
+  {
+   "id": "35bb8498-5105-4839-ebb9-c59695468325",
+   "user_id": "00000000-0000-0000-0000-000000000002",
+   "posted_at": "2026-08-22T12:56:00Z",
+   "amount": -9.07,
+   "description": "M&S SIMPLY FOOD 0188",
+   "mcc": null
+  },
+  {
+   "id": "1cde984f-4f67-874a-b46c-48e0e2b7a437",
+   "user_id": "00000000-0000-0000-0000-000000000002",
+   "posted_at": "2026-08-22T14:13:00Z",
+   "amount": -20.0,
+   "description": "BET365",
+   "mcc": "7995"
+  },
+  {
+   "id": "faf8dfcd-f333-35b6-106b-6a04b6125e0c",
+   "user_id": "00000000-0000-0000-0000-000000000002",
+   "posted_at": "2026-08-22T19:31:00Z",
+   "amount": -27.47,
+   "description": "DELIVEROO",
+   "mcc": null
+  },
+  {
+   "id": "7e6e9dbe-851d-1a33-a030-130961eeac37",
+   "user_id": "00000000-0000-0000-0000-000000000002",
+   "posted_at": "2026-08-23T16:17:00Z",
+   "amount": -22.59,
+   "description": "ALDI 114 MANCHESTER",
+   "mcc": null
+  },
+  {
+   "id": "080f73bb-d427-79f5-131e-2d48520235bc",
+   "user_id": "00000000-0000-0000-0000-000000000002",
+   "posted_at": "2026-08-23T19:20:00Z",
+   "amount": -18.61,
+   "description": "ALDI 114 MANCHESTER",
+   "mcc": null
+  },
+  {
+   "id": "3cc6d62d-4433-9c10-d465-2689c4eb26e0",
+   "user_id": "00000000-0000-0000-0000-000000000002",
+   "posted_at": "2026-08-24T08:12:00Z",
+   "amount": -2.0,
+   "description": "TFGM BEE NETWORK BUS",
+   "mcc": null
+  },
+  {
+   "id": "746fe5b9-67ba-7848-22c9-1b83a417a0fe",
+   "user_id": "00000000-0000-0000-0000-000000000002",
+   "posted_at": "2026-08-24T18:22:00Z",
+   "amount": -10.87,
+   "description": "TESCO STORES 2231",
+   "mcc": null
+  },
+  {
+   "id": "a1455615-1be8-bf7c-724c-90521d849e2b",
+   "user_id": "00000000-0000-0000-0000-000000000002",
+   "posted_at": "2026-08-25T06:00:00Z",
+   "amount": 2648.37,
+   "description": "BRIGHTHILL CONSULTING PAYROLL",
+   "mcc": null
+  },
+  {
+   "id": "2dd96b62-0942-c3fb-b6d3-e87988ebd524",
+   "user_id": "00000000-0000-0000-0000-000000000002",
+   "posted_at": "2026-08-25T08:48:00Z",
+   "amount": -2.0,
+   "description": "TFGM BEE NETWORK BUS",
+   "mcc": null
+  },
+  {
+   "id": "02c19aa9-b6d7-5031-2dbe-5f3d418bfbb0",
+   "user_id": "00000000-0000-0000-0000-000000000002",
+   "posted_at": "2026-08-25T10:43:00Z",
+   "amount": -8.76,
+   "description": "ALDI 114 MANCHESTER",
+   "mcc": null
+  },
+  {
+   "id": "9d4c712e-801b-43bf-853a-7037f262b76d",
+   "user_id": "00000000-0000-0000-0000-000000000002",
+   "posted_at": "2026-08-25T12:22:00Z",
+   "amount": -7.66,
+   "description": "PRET A MANGER",
+   "mcc": null
+  },
+  {
+   "id": "e7ff25b9-b325-7dda-cabc-1222d94874ac",
+   "user_id": "00000000-0000-0000-0000-000000000002",
+   "posted_at": "2026-08-26T07:00:00Z",
+   "amount": -300.0,
+   "description": "SAVINGS POT TRANSFER",
+   "mcc": null
+  },
+  {
+   "id": "a715a0fb-919d-cc0f-8ccd-a80c60762560",
+   "user_id": "00000000-0000-0000-0000-000000000002",
+   "posted_at": "2026-08-26T08:40:00Z",
+   "amount": -2.0,
+   "description": "TFGM BEE NETWORK BUS",
+   "mcc": null
+  },
+  {
+   "id": "32668377-741a-f215-7354-293c2141c6d1",
+   "user_id": "00000000-0000-0000-0000-000000000002",
+   "posted_at": "2026-08-26T10:26:00Z",
+   "amount": -22.72,
+   "description": "ALDI 114 MANCHESTER",
+   "mcc": null
+  },
+  {
+   "id": "eea93b6f-ca71-067b-fa0c-31f68975fcdb",
+   "user_id": "00000000-0000-0000-0000-000000000002",
+   "posted_at": "2026-08-27T08:05:00Z",
+   "amount": -2.0,
+   "description": "TFGM BEE NETWORK BUS",
+   "mcc": null
+  },
+  {
+   "id": "5790db4f-70de-e693-0981-abb61530959b",
+   "user_id": "00000000-0000-0000-0000-000000000002",
+   "posted_at": "2026-08-27T12:01:00Z",
+   "amount": -6.89,
+   "description": "PRET A MANGER",
+   "mcc": null
+  },
+  {
+   "id": "cc5dcd5f-d17f-17d2-ddbc-8dddb8d0c65d",
+   "user_id": "00000000-0000-0000-0000-000000000002",
+   "posted_at": "2026-08-27T14:41:00Z",
+   "amount": -23.66,
+   "description": "TESCO STORES 2231",
+   "mcc": null
+  },
+  {
+   "id": "fb019964-63e5-a05b-e665-559b3e06d750",
+   "user_id": "00000000-0000-0000-0000-000000000002",
+   "posted_at": "2026-08-27T19:59:00Z",
+   "amount": -18.64,
+   "description": "M&S SIMPLY FOOD 0188",
+   "mcc": null
+  },
+  {
+   "id": "70ae8985-b07a-a746-ad89-f4a1d708b232",
+   "user_id": "00000000-0000-0000-0000-000000000002",
+   "posted_at": "2026-08-28T08:46:00Z",
+   "amount": -4.0,
+   "description": "TFGM BEE NETWORK BUS",
+   "mcc": null
+  },
+  {
+   "id": "2c42eeac-08fc-9878-ccc3-9dd26dcea371",
+   "user_id": "00000000-0000-0000-0000-000000000002",
+   "posted_at": "2026-08-28T09:13:00Z",
+   "amount": -20.37,
+   "description": "TESCO STORES 2231",
+   "mcc": null
+  },
+  {
+   "id": "843afa19-fff4-7593-260f-99dd7876c03c",
+   "user_id": "00000000-0000-0000-0000-000000000002",
+   "posted_at": "2026-08-28T17:21:00Z",
+   "amount": -18.05,
+   "description": "M&S SIMPLY FOOD 0188",
+   "mcc": null
+  },
+  {
+   "id": "4a488f58-8f0b-e063-86d3-69a0707df76f",
+   "user_id": "00000000-0000-0000-0000-000000000002",
+   "posted_at": "2026-08-28T19:44:00Z",
+   "amount": -20.32,
+   "description": "DELIVEROO",
+   "mcc": null
+  },
+  {
+   "id": "f46cc2ff-6197-6f87-abda-3a974fcb694e",
+   "user_id": "00000000-0000-0000-0000-000000000002",
+   "posted_at": "2026-08-29T17:32:00Z",
+   "amount": -21.03,
+   "description": "WAITROSE MANCHESTER",
+   "mcc": null
+  },
+  {
+   "id": "1d417ead-8930-fbcd-693c-c50d3372969f",
+   "user_id": "00000000-0000-0000-0000-000000000002",
+   "posted_at": "2026-08-30T17:33:00Z",
+   "amount": -10.19,
+   "description": "ALDI 114 MANCHESTER",
+   "mcc": null
+  },
+  {
+   "id": "8b435ef0-668c-ab3c-ead7-af878419bd91",
+   "user_id": "00000000-0000-0000-0000-000000000002",
+   "posted_at": "2026-08-31T08:34:00Z",
+   "amount": -2.0,
+   "description": "TFGM BEE NETWORK BUS",
+   "mcc": null
+  },
+  {
+   "id": "ee4a9a3b-10de-d65a-2ab1-84eeb0e48236",
+   "user_id": "00000000-0000-0000-0000-000000000002",
+   "posted_at": "2026-09-01T06:30:00Z",
+   "amount": -950.0,
+   "description": "HARGREAVES LETTINGS RENT",
+   "mcc": null
+  },
+  {
+   "id": "ebb86ee2-69ed-1938-757c-c12a89e9414e",
+   "user_id": "00000000-0000-0000-0000-000000000002",
+   "posted_at": "2026-09-01T06:31:00Z",
+   "amount": -164.0,
+   "description": "MANCHESTER CITY COUNCIL",
+   "mcc": null
+  },
+  {
+   "id": "05d54cb2-fa2f-0afd-c77f-7935b3bd4390",
+   "user_id": "00000000-0000-0000-0000-000000000002",
+   "posted_at": "2026-09-01T08:16:00Z",
+   "amount": -2.0,
+   "description": "TFGM BEE NETWORK BUS",
+   "mcc": null
+  },
+  {
+   "id": "b93e081b-5273-fb71-48b9-88aaafe17664",
+   "user_id": "00000000-0000-0000-0000-000000000002",
+   "posted_at": "2026-09-01T12:09:00Z",
+   "amount": -6.41,
+   "description": "PRET A MANGER",
+   "mcc": null
+  },
+  {
+   "id": "d0d2d52e-e6a1-096b-6f05-7e9556f55245",
+   "user_id": "00000000-0000-0000-0000-000000000002",
+   "posted_at": "2026-09-01T13:15:00Z",
+   "amount": -13.99,
+   "description": "M&S SIMPLY FOOD 0188",
+   "mcc": null
+  },
+  {
+   "id": "ecde8a07-0787-b26d-9e2e-5be56b66ec95",
+   "user_id": "00000000-0000-0000-0000-000000000002",
+   "posted_at": "2026-09-01T16:33:00Z",
+   "amount": -11.03,
+   "description": "M&S SIMPLY FOOD 0188",
+   "mcc": null
+  },
+  {
+   "id": "950d76ce-bb1b-da5d-7fea-cb061ad9c6d8",
+   "user_id": "00000000-0000-0000-0000-000000000002",
+   "posted_at": "2026-09-02T06:10:00Z",
+   "amount": -24.99,
+   "description": "PUREGYM MANCHESTER",
+   "mcc": null
+  },
+  {
+   "id": "b38cd305-329e-5b83-b7ba-f0a640244898",
+   "user_id": "00000000-0000-0000-0000-000000000002",
+   "posted_at": "2026-09-02T08:32:00Z",
+   "amount": -4.0,
+   "description": "TFGM BEE NETWORK BUS",
+   "mcc": null
+  },
+  {
+   "id": "878354ac-d33e-fae9-69d4-b6cca20cb894",
+   "user_id": "00000000-0000-0000-0000-000000000002",
+   "posted_at": "2026-09-02T12:27:00Z",
+   "amount": -5.59,
+   "description": "PRET A MANGER",
+   "mcc": null
+  },
+  {
+   "id": "a3729599-88b4-8922-a19d-dc1add248e6f",
+   "user_id": "00000000-0000-0000-0000-000000000002",
+   "posted_at": "2026-09-03T06:10:00Z",
+   "amount": -11.99,
+   "description": "SPOTIFY UK",
+   "mcc": null
+  },
+  {
+   "id": "e401278a-50a3-14ea-9a66-905a50dd1af0",
+   "user_id": "00000000-0000-0000-0000-000000000002",
+   "posted_at": "2026-09-03T08:22:00Z",
+   "amount": -2.0,
+   "description": "TFGM BEE NETWORK BUS",
+   "mcc": null
+  },
+  {
+   "id": "a0bd016b-bda3-34ae-ea31-df803b8f801c",
+   "user_id": "00000000-0000-0000-0000-000000000002",
+   "posted_at": "2026-09-03T17:13:00Z",
+   "amount": -21.17,
+   "description": "M&S SIMPLY FOOD 0188",
+   "mcc": null
+  },
+  {
+   "id": "426e6ddf-1690-a1f7-ba00-eb1b21ee3e33",
+   "user_id": "00000000-0000-0000-0000-000000000002",
+   "posted_at": "2026-09-04T08:08:00Z",
+   "amount": -2.0,
+   "description": "TFGM BEE NETWORK BUS",
+   "mcc": null
+  },
+  {
+   "id": "b47053de-ca39-3bf1-8b14-2f966beffb9b",
+   "user_id": "00000000-0000-0000-0000-000000000002",
+   "posted_at": "2026-09-04T12:27:00Z",
+   "amount": -8.83,
+   "description": "PRET A MANGER",
+   "mcc": null
+  },
+  {
+   "id": "aeb0a94c-91e4-f834-3370-6a3518972e44",
+   "user_id": "00000000-0000-0000-0000-000000000002",
+   "posted_at": "2026-09-04T19:25:00Z",
+   "amount": -34.96,
+   "description": "DELIVEROO",
+   "mcc": null
+  },
+  {
+   "id": "81744e12-b467-fb8a-1d8b-86945c7fb02d",
+   "user_id": "00000000-0000-0000-0000-000000000002",
+   "posted_at": "2026-09-05T06:15:00Z",
+   "amount": -88.0,
+   "description": "OCTOPUS ENERGY DD",
+   "mcc": null
+  },
+  {
+   "id": "ade3a8c8-c5a8-e39d-8329-b268739ac8ee",
+   "user_id": "00000000-0000-0000-0000-000000000002",
+   "posted_at": "2026-09-05T14:37:00Z",
+   "amount": -10.0,
+   "description": "BET365",
+   "mcc": "7995"
+  },
+  {
+   "id": "099565a2-0638-d57b-1b2e-2cd77b692cda",
+   "user_id": "00000000-0000-0000-0000-000000000002",
+   "posted_at": "2026-09-05T17:43:00Z",
+   "amount": -20.83,
+   "description": "TESCO STORES 2231",
+   "mcc": null
+  },
+  {
+   "id": "bd80f059-9f7c-60ba-2025-2a7bb4f90ad6",
+   "user_id": "00000000-0000-0000-0000-000000000002",
+   "posted_at": "2026-09-05T20:41:00Z",
+   "amount": -30.0,
+   "description": "COINBASE UK*TOPUP",
+   "mcc": null
+  },
+  {
+   "id": "fd846420-2874-799a-d718-48a12c2869b6",
+   "user_id": "00000000-0000-0000-0000-000000000002",
+   "posted_at": "2026-09-06T11:12:00Z",
+   "amount": -8.51,
+   "description": "M&S SIMPLY FOOD 0188",
+   "mcc": null
+  },
+  {
+   "id": "6e19ce13-5ac5-1cc8-83e9-db776d2b653f",
+   "user_id": "00000000-0000-0000-0000-000000000002",
+   "posted_at": "2026-09-06T11:20:00Z",
+   "amount": -36.5,
+   "description": "AMAZON.CO.UK",
+   "mcc": null
+  },
+  {
+   "id": "764a44b4-ae53-c374-f395-2c0b226b5501",
+   "user_id": "00000000-0000-0000-0000-000000000002",
+   "posted_at": "2026-09-06T13:59:00Z",
+   "amount": -17.79,
+   "description": "TESCO STORES 2231",
+   "mcc": null
+  },
+  {
+   "id": "9ad8e8b1-31f3-c57c-ebff-2ec167c1e0bc",
+   "user_id": "00000000-0000-0000-0000-000000000002",
+   "posted_at": "2026-09-07T08:47:00Z",
+   "amount": -2.0,
+   "description": "TFGM BEE NETWORK BUS",
+   "mcc": null
+  },
+  {
+   "id": "5c0ca7f4-7436-21bb-686f-cb682e67a853",
+   "user_id": "00000000-0000-0000-0000-000000000002",
+   "posted_at": "2026-09-07T09:40:00Z",
+   "amount": -18.32,
+   "description": "M&S SIMPLY FOOD 0188",
+   "mcc": null
+  },
+  {
+   "id": "cd3c9d6e-15b7-193e-e4a7-c5b952ddc9ac",
+   "user_id": "00000000-0000-0000-0000-000000000002",
+   "posted_at": "2026-09-07T12:32:00Z",
+   "amount": -8.67,
+   "description": "PRET A MANGER",
+   "mcc": null
+  },
+  {
+   "id": "678df63e-f088-bed0-a11f-7657e8a33edb",
+   "user_id": "00000000-0000-0000-0000-000000000002",
+   "posted_at": "2026-09-08T06:20:00Z",
+   "amount": -32.0,
+   "description": "VIRGIN MEDIA",
+   "mcc": null
+  },
+  {
+   "id": "221a61a1-67d7-cdf6-ef0d-3b89d08c5c0a",
+   "user_id": "00000000-0000-0000-0000-000000000002",
+   "posted_at": "2026-09-08T08:47:00Z",
+   "amount": -2.0,
+   "description": "TFGM BEE NETWORK BUS",
+   "mcc": null
+  },
+  {
+   "id": "be934924-1dc4-2276-e94a-e4a7478e5850",
+   "user_id": "00000000-0000-0000-0000-000000000002",
+   "posted_at": "2026-09-08T17:37:00Z",
+   "amount": -23.67,
+   "description": "WAITROSE MANCHESTER",
+   "mcc": null
+  },
+  {
+   "id": "aa851bb4-f61f-e913-f1d6-43e645e1b952",
+   "user_id": "00000000-0000-0000-0000-000000000002",
+   "posted_at": "2026-09-09T08:03:00Z",
+   "amount": -2.0,
+   "description": "TFGM BEE NETWORK BUS",
+   "mcc": null
+  },
+  {
+   "id": "4d3b8462-577a-dfd3-cc1e-0437120fac4a",
+   "user_id": "00000000-0000-0000-0000-000000000002",
+   "posted_at": "2026-09-09T11:25:00Z",
+   "amount": -8.93,
+   "description": "M&S SIMPLY FOOD 0188",
+   "mcc": null
+  },
+  {
+   "id": "13ab6410-8877-e8e7-2e95-050791cfb3fa",
+   "user_id": "00000000-0000-0000-0000-000000000002",
+   "posted_at": "2026-09-09T12:13:00Z",
+   "amount": -8.14,
+   "description": "PRET A MANGER",
+   "mcc": null
+  },
+  {
+   "id": "9fbfcb0a-e717-a666-a382-a266fd969744",
+   "user_id": "00000000-0000-0000-0000-000000000002",
+   "posted_at": "2026-09-09T16:06:00Z",
+   "amount": -5.2,
+   "description": "WAITROSE MANCHESTER",
+   "mcc": null
+  },
+  {
+   "id": "0ceabec7-8138-093c-66cc-59ee7192d0d7",
+   "user_id": "00000000-0000-0000-0000-000000000002",
+   "posted_at": "2026-09-10T08:15:00Z",
+   "amount": -2.0,
+   "description": "TFGM BEE NETWORK BUS",
+   "mcc": null
+  },
+  {
+   "id": "bd21a956-1ba9-a6b5-9d8a-9ea91d617a4c",
+   "user_id": "00000000-0000-0000-0000-000000000002",
+   "posted_at": "2026-09-10T20:07:00Z",
+   "amount": -19.47,
+   "description": "TESCO STORES 2231",
+   "mcc": null
+  },
+  {
+   "id": "82007424-8a5d-63c3-8cd0-94b85741cca6",
+   "user_id": "00000000-0000-0000-0000-000000000002",
+   "posted_at": "2026-09-10T20:16:00Z",
+   "amount": -11.86,
+   "description": "UBER *TRIP",
+   "mcc": null
+  },
+  {
+   "id": "7eda7522-db0d-5869-2b4b-9f2cf85680d1",
+   "user_id": "00000000-0000-0000-0000-000000000002",
+   "posted_at": "2026-09-11T08:24:00Z",
+   "amount": -2.0,
+   "description": "TFGM BEE NETWORK BUS",
+   "mcc": null
+  },
+  {
+   "id": "28f1469a-f048-4de3-ee1e-8faf62ec9eae",
+   "user_id": "00000000-0000-0000-0000-000000000002",
+   "posted_at": "2026-09-11T10:35:00Z",
+   "amount": -16.35,
+   "description": "TESCO STORES 2231",
+   "mcc": null
+  },
+  {
+   "id": "48d0ca3e-6bb3-3fb5-7e99-b910f1fd7037",
+   "user_id": "00000000-0000-0000-0000-000000000002",
+   "posted_at": "2026-09-11T12:38:00Z",
+   "amount": -5.73,
+   "description": "PRET A MANGER",
+   "mcc": null
+  },
+  {
+   "id": "a5081794-cf3d-3dcd-71c0-8716a354cb3a",
+   "user_id": "00000000-0000-0000-0000-000000000002",
+   "posted_at": "2026-09-11T17:36:00Z",
+   "amount": -21.08,
+   "description": "TESCO STORES 2231",
+   "mcc": null
+  },
+  {
+   "id": "450eb763-a7b5-63e5-7bb5-c9e74926f077",
+   "user_id": "00000000-0000-0000-0000-000000000002",
+   "posted_at": "2026-09-11T19:38:00Z",
+   "amount": -26.43,
+   "description": "THE ALBION PUB",
+   "mcc": null
+  },
+  {
+   "id": "06e06202-4bc9-4f65-bf6c-7424b77336df",
+   "user_id": "00000000-0000-0000-0000-000000000002",
+   "posted_at": "2026-09-12T06:15:00Z",
+   "amount": -22.0,
+   "description": "VODAFONE LTD",
+   "mcc": null
+  },
+  {
+   "id": "ddc53861-9f1f-c94c-299e-28e80a55e0b3",
+   "user_id": "00000000-0000-0000-0000-000000000002",
+   "posted_at": "2026-09-12T14:25:00Z",
+   "amount": -20.0,
+   "description": "BET365",
+   "mcc": "7995"
+  },
+  {
+   "id": "94ed581c-0cd7-2b2b-65d4-5380bf94b9a1",
+   "user_id": "00000000-0000-0000-0000-000000000002",
+   "posted_at": "2026-09-13T19:24:00Z",
+   "amount": -6.0,
+   "description": "WAITROSE MANCHESTER",
+   "mcc": null
+  },
+  {
+   "id": "403c7afd-7a44-8c01-b818-8fd96df4be4f",
+   "user_id": "00000000-0000-0000-0000-000000000002",
+   "posted_at": "2026-09-13T20:20:00Z",
+   "amount": -6.4,
+   "description": "M&S SIMPLY FOOD 0188",
+   "mcc": null
+  },
+  {
+   "id": "cf67329f-eff0-fd26-1935-85f885fae26b",
+   "user_id": "00000000-0000-0000-0000-000000000002",
+   "posted_at": "2026-09-14T06:10:00Z",
+   "amount": -10.99,
+   "description": "NETFLIX.COM",
+   "mcc": null
+  },
+  {
+   "id": "99de7a2f-749f-265f-6abe-c276aafaebfe",
+   "user_id": "00000000-0000-0000-0000-000000000002",
+   "posted_at": "2026-09-14T08:28:00Z",
+   "amount": -2.0,
+   "description": "TFGM BEE NETWORK BUS",
+   "mcc": null
+  },
+  {
+   "id": "5d015d21-1fd3-d299-279c-003c87318ae1",
+   "user_id": "00000000-0000-0000-0000-000000000002",
+   "posted_at": "2026-09-14T10:13:00Z",
+   "amount": -21.36,
+   "description": "WAITROSE MANCHESTER",
+   "mcc": null
+  },
+  {
+   "id": "74a8039f-6aca-dd57-9fce-b71a0ce6ff6c",
+   "user_id": "00000000-0000-0000-0000-000000000002",
+   "posted_at": "2026-09-14T11:52:00Z",
+   "amount": -9.66,
+   "description": "TESCO STORES 2231",
+   "mcc": null
+  },
+  {
+   "id": "87e04c32-be6e-0ec5-c728-d4205d3068a3",
+   "user_id": "00000000-0000-0000-0000-000000000002",
+   "posted_at": "2026-09-14T12:37:00Z",
+   "amount": -8.23,
+   "description": "PRET A MANGER",
+   "mcc": null
+  },
+  {
+   "id": "4581ccd9-4656-5bb6-5bf3-79c4d8b843a4",
+   "user_id": "00000000-0000-0000-0000-000000000002",
+   "posted_at": "2026-09-15T08:32:00Z",
+   "amount": -4.0,
+   "description": "TFGM BEE NETWORK BUS",
+   "mcc": null
+  },
+  {
+   "id": "c8c87666-4f00-8cc7-e487-f65580c13adc",
+   "user_id": "00000000-0000-0000-0000-000000000002",
+   "posted_at": "2026-09-15T20:08:00Z",
+   "amount": -9.53,
+   "description": "TESCO STORES 2231",
+   "mcc": null
+  },
+  {
+   "id": "a0df7253-0a1d-3045-aee4-438ee0f77d81",
+   "user_id": "00000000-0000-0000-0000-000000000002",
+   "posted_at": "2026-09-16T08:41:00Z",
+   "amount": -2.0,
+   "description": "TFGM BEE NETWORK BUS",
+   "mcc": null
+  },
+  {
+   "id": "1a3b72a8-09bd-5491-9f93-cf9c06e32b27",
+   "user_id": "00000000-0000-0000-0000-000000000002",
+   "posted_at": "2026-09-16T12:17:00Z",
+   "amount": -6.54,
+   "description": "PRET A MANGER",
+   "mcc": null
+  },
+  {
+   "id": "facefc74-808c-d779-3fbb-e91bf3af6fdb",
+   "user_id": "00000000-0000-0000-0000-000000000002",
+   "posted_at": "2026-09-16T19:17:00Z",
+   "amount": -19.31,
+   "description": "M&S SIMPLY FOOD 0188",
+   "mcc": null
+  },
+  {
+   "id": "fb42efac-a190-1fe2-3c18-d8108cf5ff3a",
+   "user_id": "00000000-0000-0000-0000-000000000002",
+   "posted_at": "2026-09-17T08:43:00Z",
+   "amount": -2.0,
+   "description": "TFGM BEE NETWORK BUS",
+   "mcc": null
+  },
+  {
+   "id": "beacf87b-7e91-601b-57fc-c1f15697e720",
+   "user_id": "00000000-0000-0000-0000-000000000002",
+   "posted_at": "2026-09-17T12:30:00Z",
+   "amount": -6.92,
+   "description": "PRET A MANGER",
+   "mcc": null
+  },
+  {
+   "id": "3691f577-c4d9-1f76-c4cc-ddd1d6867855",
+   "user_id": "00000000-0000-0000-0000-000000000002",
+   "posted_at": "2026-09-18T08:28:00Z",
+   "amount": -4.0,
+   "description": "TFGM BEE NETWORK BUS",
+   "mcc": null
+  },
+  {
+   "id": "a7561c51-2749-959b-5e73-81ce26934cac",
+   "user_id": "00000000-0000-0000-0000-000000000002",
+   "posted_at": "2026-09-18T12:16:00Z",
+   "amount": -7.06,
+   "description": "PRET A MANGER",
+   "mcc": null
+  },
+  {
+   "id": "583a72c8-0dae-5910-7b62-781edead133a",
+   "user_id": "00000000-0000-0000-0000-000000000002",
+   "posted_at": "2026-09-19T14:23:00Z",
+   "amount": -15.0,
+   "description": "BET365",
+   "mcc": "7995"
+  },
+  {
+   "id": "14191342-52fb-badb-e00b-ad837646b25e",
+   "user_id": "00000000-0000-0000-0000-000000000002",
+   "posted_at": "2026-09-19T15:41:00Z",
+   "amount": -12.02,
+   "description": "TESCO STORES 2231",
+   "mcc": null
+  },
+  {
+   "id": "9f060196-607f-d982-336b-7b3a200e6993",
+   "user_id": "00000000-0000-0000-0000-000000000002",
+   "posted_at": "2026-09-19T19:10:00Z",
+   "amount": -35.0,
+   "description": "COINBASE UK*TOPUP",
+   "mcc": null
+  },
+  {
+   "id": "4c82c9dc-76a8-be8a-af71-95dcd0b78bc4",
+   "user_id": "00000000-0000-0000-0000-000000000002",
+   "posted_at": "2026-09-19T19:27:00Z",
+   "amount": -33.23,
+   "description": "DISHOOM MANCHESTER",
+   "mcc": null
+  },
+  {
+   "id": "4dc62e13-b1f2-66ea-14ea-e0539a8d53cf",
+   "user_id": "00000000-0000-0000-0000-000000000002",
+   "posted_at": "2026-09-19T20:13:00Z",
+   "amount": -20.75,
+   "description": "UBER *TRIP",
+   "mcc": null
+  },
+  {
+   "id": "91bbfa2b-70e4-1c13-b593-09c7528bc4f9",
+   "user_id": "00000000-0000-0000-0000-000000000002",
+   "posted_at": "2026-09-20T19:46:00Z",
+   "amount": -11.21,
+   "description": "TESCO STORES 2231",
+   "mcc": null
+  },
+  {
+   "id": "5b98e36a-3800-2d3a-2496-4847e1b7cc2e",
+   "user_id": "00000000-0000-0000-0000-000000000002",
+   "posted_at": "2026-09-20T20:48:00Z",
+   "amount": -18.19,
+   "description": "WAITROSE MANCHESTER",
+   "mcc": null
+  },
+  {
+   "id": "d41a224a-5c97-fdc1-1593-d7243f90ee4f",
+   "user_id": "00000000-0000-0000-0000-000000000002",
+   "posted_at": "2026-09-21T08:46:00Z",
+   "amount": -4.0,
+   "description": "TFGM BEE NETWORK BUS",
+   "mcc": null
+  },
+  {
+   "id": "31e8ed0d-cbcf-3248-6338-6f4595b60574",
+   "user_id": "00000000-0000-0000-0000-000000000002",
+   "posted_at": "2026-09-21T12:23:00Z",
+   "amount": -8.21,
+   "description": "PRET A MANGER",
+   "mcc": null
+  },
+  {
+   "id": "664ba437-38a1-7111-514f-7eb07551913f",
+   "user_id": "00000000-0000-0000-0000-000000000002",
+   "posted_at": "2026-09-21T16:33:00Z",
+   "amount": -20.26,
+   "description": "WAITROSE MANCHESTER",
+   "mcc": null
+  },
+  {
+   "id": "1066014b-6c39-04b6-cde7-d967d778dac7",
+   "user_id": "00000000-0000-0000-0000-000000000002",
+   "posted_at": "2026-09-22T08:01:00Z",
+   "amount": -4.0,
+   "description": "TFGM BEE NETWORK BUS",
+   "mcc": null
+  },
+  {
+   "id": "460d8c71-14e8-7ee9-55a3-2d7215840cb1",
+   "user_id": "00000000-0000-0000-0000-000000000002",
+   "posted_at": "2026-09-22T12:19:00Z",
+   "amount": -8.65,
+   "description": "PRET A MANGER",
+   "mcc": null
+  },
+  {
+   "id": "4bbebcfb-9145-3934-289f-87198b4d861b",
+   "user_id": "00000000-0000-0000-0000-000000000002",
+   "posted_at": "2026-09-22T13:51:00Z",
+   "amount": -5.42,
+   "description": "TESCO STORES 2231",
+   "mcc": null
+  },
+  {
+   "id": "74518a51-c24a-5fb0-16f9-2d8e2d35256c",
+   "user_id": "00000000-0000-0000-0000-000000000002",
+   "posted_at": "2026-09-22T17:09:00Z",
+   "amount": -20.89,
+   "description": "M&S SIMPLY FOOD 0188",
+   "mcc": null
+  },
+  {
+   "id": "beec31bd-18f2-71ef-24d5-2f5fa74e4b48",
+   "user_id": "00000000-0000-0000-0000-000000000002",
+   "posted_at": "2026-09-23T08:01:00Z",
+   "amount": -4.0,
+   "description": "TFGM BEE NETWORK BUS",
+   "mcc": null
+  },
+  {
+   "id": "c1cdcb4d-691d-71a5-0bd6-6defea3bec34",
+   "user_id": "00000000-0000-0000-0000-000000000002",
+   "posted_at": "2026-09-24T08:45:00Z",
+   "amount": -4.0,
+   "description": "TFGM BEE NETWORK BUS",
+   "mcc": null
+  },
+  {
+   "id": "128d4be6-b88f-3458-ce06-2c7c898f1a81",
+   "user_id": "00000000-0000-0000-0000-000000000002",
+   "posted_at": "2026-09-24T14:43:00Z",
+   "amount": -7.6,
+   "description": "ALDI 114 MANCHESTER",
+   "mcc": null
+  },
+  {
+   "id": "f7e0a3c1-cea9-9bc1-567a-f36a59b676c2",
+   "user_id": "00000000-0000-0000-0000-000000000002",
+   "posted_at": "2026-09-24T17:21:00Z",
+   "amount": -19.53,
+   "description": "ALDI 114 MANCHESTER",
+   "mcc": null
+  },
+  {
+   "id": "16d95469-d575-bbf5-60c3-11e0ce4ff021",
+   "user_id": "00000000-0000-0000-0000-000000000002",
+   "posted_at": "2026-09-25T06:00:00Z",
+   "amount": 2648.37,
+   "description": "BRIGHTHILL CONSULTING PAYROLL",
+   "mcc": null
+  },
+  {
+   "id": "34513f83-5225-2a1f-2aeb-77bdaf1f1a32",
+   "user_id": "00000000-0000-0000-0000-000000000002",
+   "posted_at": "2026-09-25T08:40:00Z",
+   "amount": -2.0,
+   "description": "TFGM BEE NETWORK BUS",
+   "mcc": null
+  },
+  {
+   "id": "78b09bd1-0f28-30f8-e2d6-98acf8423599",
+   "user_id": "00000000-0000-0000-0000-000000000002",
+   "posted_at": "2026-09-25T12:33:00Z",
+   "amount": -6.67,
+   "description": "PRET A MANGER",
+   "mcc": null
+  },
+  {
+   "id": "fdb2db3b-2989-6d3c-bdc1-65763ee7878b",
+   "user_id": "00000000-0000-0000-0000-000000000002",
+   "posted_at": "2026-09-25T15:59:00Z",
+   "amount": -12.99,
+   "description": "M&S SIMPLY FOOD 0188",
+   "mcc": null
+  },
+  {
+   "id": "50035016-094f-d95e-cce7-406ee8c78d6d",
+   "user_id": "00000000-0000-0000-0000-000000000002",
+   "posted_at": "2026-09-25T17:01:00Z",
+   "amount": -47.12,
+   "description": "AMAZON.CO.UK",
+   "mcc": null
+  },
+  {
+   "id": "1c242d37-cd60-7afd-0299-14ebb5c83913",
+   "user_id": "00000000-0000-0000-0000-000000000002",
+   "posted_at": "2026-09-25T17:40:00Z",
+   "amount": -5.46,
+   "description": "WAITROSE MANCHESTER",
+   "mcc": null
+  },
+  {
+   "id": "e985a65d-2def-4fe1-eb73-6da1c6a3ad8b",
+   "user_id": "00000000-0000-0000-0000-000000000002",
+   "posted_at": "2026-09-25T19:07:00Z",
+   "amount": -26.19,
+   "description": "DELIVEROO",
+   "mcc": null
+  },
+  {
+   "id": "969e2721-37a5-307a-5bfc-687f2f3e04e2",
+   "user_id": "00000000-0000-0000-0000-000000000002",
+   "posted_at": "2026-09-26T07:00:00Z",
+   "amount": -300.0,
+   "description": "SAVINGS POT TRANSFER",
+   "mcc": null
+  },
+  {
+   "id": "cbe46783-bd4d-ae50-81e8-3b8565bb103c",
+   "user_id": "00000000-0000-0000-0000-000000000002",
+   "posted_at": "2026-09-26T14:18:00Z",
+   "amount": -25.0,
+   "description": "BET365",
+   "mcc": "7995"
+  },
+  {
+   "id": "47f3ac9a-e4ff-53ee-2f5b-4f607123d64d",
+   "user_id": "00000000-0000-0000-0000-000000000002",
+   "posted_at": "2026-09-26T18:45:00Z",
+   "amount": -13.97,
+   "description": "M&S SIMPLY FOOD 0188",
+   "mcc": null
+  },
+  {
+   "id": "d12f5382-f126-abd5-8c59-19cca07313a1",
+   "user_id": "00000000-0000-0000-0000-000000000002",
+   "posted_at": "2026-09-26T19:58:00Z",
+   "amount": -38.45,
+   "description": "DISHOOM MANCHESTER",
+   "mcc": null
+  },
+  {
+   "id": "840cab34-cb71-fd43-870f-e3aaf9dd055b",
+   "user_id": "00000000-0000-0000-0000-000000000002",
+   "posted_at": "2026-09-27T09:13:00Z",
+   "amount": -23.0,
+   "description": "ALDI 114 MANCHESTER",
+   "mcc": null
+  },
+  {
+   "id": "6640bffb-3893-cca7-dcd1-debb7b8c8eac",
+   "user_id": "00000000-0000-0000-0000-000000000002",
+   "posted_at": "2026-09-27T15:58:00Z",
+   "amount": -23.16,
+   "description": "TESCO STORES 2231",
+   "mcc": null
+  },
+  {
+   "id": "78ff5416-dfc1-ccad-02c8-d84be466e9d8",
+   "user_id": "00000000-0000-0000-0000-000000000002",
+   "posted_at": "2026-09-28T08:42:00Z",
+   "amount": -2.0,
+   "description": "TFGM BEE NETWORK BUS",
+   "mcc": null
+  },
+  {
+   "id": "ea8ddc09-d248-745a-344d-2a4200597a51",
+   "user_id": "00000000-0000-0000-0000-000000000002",
+   "posted_at": "2026-09-29T08:36:00Z",
+   "amount": -2.0,
+   "description": "TFGM BEE NETWORK BUS",
+   "mcc": null
+  },
+  {
+   "id": "26913812-0d8d-8f28-88da-007284146a53",
+   "user_id": "00000000-0000-0000-0000-000000000002",
+   "posted_at": "2026-09-29T17:08:00Z",
+   "amount": -17.1,
+   "description": "WAITROSE MANCHESTER",
+   "mcc": null
+  },
+  {
+   "id": "42699143-250d-9d0a-5261-bb1fc59d5725",
+   "user_id": "00000000-0000-0000-0000-000000000002",
+   "posted_at": "2026-09-29T18:55:00Z",
+   "amount": -7.99,
+   "description": "M&S SIMPLY FOOD 0188",
+   "mcc": null
+  },
+  {
+   "id": "4db8581e-8187-2b09-db7a-fedd8b1cd95e",
+   "user_id": "00000000-0000-0000-0000-000000000002",
+   "posted_at": "2026-09-30T08:47:00Z",
+   "amount": -4.0,
+   "description": "TFGM BEE NETWORK BUS",
+   "mcc": null
+  },
+  {
+   "id": "c80afdf0-1748-3127-aea6-9667eab0a8cc",
+   "user_id": "00000000-0000-0000-0000-000000000002",
+   "posted_at": "2026-09-30T12:12:00Z",
+   "amount": -7.17,
+   "description": "PRET A MANGER",
+   "mcc": null
+  },
+  {
+   "id": "f49b41e2-1536-3de7-77fa-588bb195ca4d",
+   "user_id": "00000000-0000-0000-0000-000000000002",
+   "posted_at": "2026-09-30T18:45:00Z",
+   "amount": -15.03,
+   "description": "ALDI 114 MANCHESTER",
+   "mcc": null
+  },
+  {
+   "id": "7e82c90f-8692-7da0-69c4-2a9e8b1a628a",
+   "user_id": "00000000-0000-0000-0000-000000000002",
+   "posted_at": "2026-10-01T06:30:00Z",
+   "amount": -950.0,
+   "description": "HARGREAVES LETTINGS RENT",
+   "mcc": null
+  },
+  {
+   "id": "f6c46637-d4fe-8ca7-f254-002928554bd2",
+   "user_id": "00000000-0000-0000-0000-000000000002",
+   "posted_at": "2026-10-01T06:31:00Z",
+   "amount": -164.0,
+   "description": "MANCHESTER CITY COUNCIL",
+   "mcc": null
+  },
+  {
+   "id": "1b129070-23fb-5957-afe5-6a3a1308416a",
+   "user_id": "00000000-0000-0000-0000-000000000002",
+   "posted_at": "2026-10-01T08:04:00Z",
+   "amount": -2.0,
+   "description": "TFGM BEE NETWORK BUS",
+   "mcc": null
+  },
+  {
+   "id": "b713ca71-aaca-2235-779c-24d6ff4cf75b",
+   "user_id": "00000000-0000-0000-0000-000000000002",
+   "posted_at": "2026-10-01T14:19:00Z",
+   "amount": -12.7,
+   "description": "WAITROSE MANCHESTER",
+   "mcc": null
+  },
+  {
+   "id": "a768614d-1f34-6b0d-d469-ed0ac8cfad9a",
+   "user_id": "00000000-0000-0000-0000-000000000002",
+   "posted_at": "2026-10-02T06:10:00Z",
+   "amount": -24.99,
+   "description": "PUREGYM MANCHESTER",
+   "mcc": null
+  },
+  {
+   "id": "4c5738d4-bfee-52c6-8a2e-359deffcb2c9",
+   "user_id": "00000000-0000-0000-0000-000000000002",
+   "posted_at": "2026-10-02T08:40:00Z",
+   "amount": -2.0,
+   "description": "TFGM BEE NETWORK BUS",
+   "mcc": null
+  },
+  {
+   "id": "1d02d941-9069-e679-4b20-bce53ccb5ac2",
+   "user_id": "00000000-0000-0000-0000-000000000002",
+   "posted_at": "2026-10-02T09:55:00Z",
+   "amount": -12.17,
+   "description": "ALDI 114 MANCHESTER",
+   "mcc": null
+  },
+  {
+   "id": "4a573d47-26f2-1fce-9db6-8d49e6cae02e",
+   "user_id": "00000000-0000-0000-0000-000000000002",
+   "posted_at": "2026-10-02T16:49:00Z",
+   "amount": -5.2,
+   "description": "M&S SIMPLY FOOD 0188",
+   "mcc": null
+  },
+  {
+   "id": "bb3fe4d8-6065-911a-332f-92ed304bd907",
+   "user_id": "00000000-0000-0000-0000-000000000002",
+   "posted_at": "2026-10-03T06:10:00Z",
+   "amount": -11.99,
+   "description": "SPOTIFY UK",
+   "mcc": null
+  },
+  {
+   "id": "0382da63-f94b-d3c6-2f44-f98ea6e97e87",
+   "user_id": "00000000-0000-0000-0000-000000000002",
+   "posted_at": "2026-10-03T19:14:00Z",
+   "amount": -40.0,
+   "description": "COINBASE UK*TOPUP",
+   "mcc": null
+  },
+  {
+   "id": "d3aebcb1-7265-3020-54e7-91bda3ec6c73",
+   "user_id": "00000000-0000-0000-0000-000000000002",
+   "posted_at": "2026-10-03T19:17:00Z",
+   "amount": -33.2,
+   "description": "THE ALBION PUB",
+   "mcc": null
+  },
+  {
+   "id": "66fbc201-3173-4cef-2e0c-00392de2f7fb",
+   "user_id": "00000000-0000-0000-0000-000000000002",
+   "posted_at": "2026-10-05T06:15:00Z",
+   "amount": -88.0,
+   "description": "OCTOPUS ENERGY DD",
+   "mcc": null
+  },
+  {
+   "id": "3a015797-19b5-ebe4-1710-d182b4353114",
+   "user_id": "00000000-0000-0000-0000-000000000002",
+   "posted_at": "2026-10-05T08:29:00Z",
+   "amount": -4.0,
+   "description": "TFGM BEE NETWORK BUS",
+   "mcc": null
+  },
+  {
+   "id": "ebad7550-5776-b591-129b-5236c56d7e23",
+   "user_id": "00000000-0000-0000-0000-000000000002",
+   "posted_at": "2026-10-05T12:07:00Z",
+   "amount": -7.24,
+   "description": "PRET A MANGER",
+   "mcc": null
+  },
+  {
+   "id": "b32b6169-9cf3-cbcc-6694-ce5bba18a1ca",
+   "user_id": "00000000-0000-0000-0000-000000000002",
+   "posted_at": "2026-10-06T08:39:00Z",
+   "amount": -2.0,
+   "description": "TFGM BEE NETWORK BUS",
+   "mcc": null
+  },
+  {
+   "id": "42be2d53-04bf-22ea-87a7-028c9bcd793e",
+   "user_id": "00000000-0000-0000-0000-000000000002",
+   "posted_at": "2026-10-06T12:15:00Z",
+   "amount": -8.14,
+   "description": "PRET A MANGER",
+   "mcc": null
+  },
+  {
+   "id": "69820a38-ebdb-ee4e-54d7-51b97b951ffb",
+   "user_id": "00000000-0000-0000-0000-000000000002",
+   "posted_at": "2026-10-06T19:13:00Z",
+   "amount": -19.57,
+   "description": "ALDI 114 MANCHESTER",
+   "mcc": null
+  },
+  {
+   "id": "32bb39c6-b6a2-c54e-92fb-dff2244a038a",
+   "user_id": "00000000-0000-0000-0000-000000000002",
+   "posted_at": "2026-10-07T08:32:00Z",
+   "amount": -4.0,
+   "description": "TFGM BEE NETWORK BUS",
+   "mcc": null
+  },
+  {
+   "id": "1a4822a1-d33f-8fab-4b21-5375c9deb1ad",
+   "user_id": "00000000-0000-0000-0000-000000000002",
+   "posted_at": "2026-10-07T10:35:00Z",
+   "amount": -12.17,
+   "description": "WAITROSE MANCHESTER",
+   "mcc": null
+  },
+  {
+   "id": "9cace1cb-5a41-6f04-3be1-dd1d8c5a5b37",
+   "user_id": "00000000-0000-0000-0000-000000000002",
+   "posted_at": "2026-10-07T18:45:00Z",
+   "amount": -8.01,
+   "description": "WAITROSE MANCHESTER",
+   "mcc": null
+  },
+  {
+   "id": "913f1c4c-327b-e7bd-ef97-c321d5e4d234",
+   "user_id": "00000000-0000-0000-0000-000000000002",
+   "posted_at": "2026-10-08T06:20:00Z",
+   "amount": -32.0,
+   "description": "VIRGIN MEDIA",
+   "mcc": null
+  },
+  {
+   "id": "22e2f303-154f-1b79-c6d0-326432a98520",
+   "user_id": "00000000-0000-0000-0000-000000000002",
+   "posted_at": "2026-10-08T08:40:00Z",
+   "amount": -4.0,
+   "description": "TFGM BEE NETWORK BUS",
+   "mcc": null
+  },
+  {
+   "id": "edd6e10b-177d-678b-5445-717855655edf",
+   "user_id": "00000000-0000-0000-0000-000000000002",
+   "posted_at": "2026-10-08T12:36:00Z",
+   "amount": -7.17,
+   "description": "PRET A MANGER",
+   "mcc": null
+  },
+  {
+   "id": "91bf3cbd-e770-4d12-3d16-e30e22b6fc43",
+   "user_id": "00000000-0000-0000-0000-000000000002",
+   "posted_at": "2026-10-09T08:28:00Z",
+   "amount": -4.0,
+   "description": "TFGM BEE NETWORK BUS",
+   "mcc": null
+  },
+  {
+   "id": "e8c9ea0b-2b25-1667-43ad-9f76ea436cff",
+   "user_id": "00000000-0000-0000-0000-000000000002",
+   "posted_at": "2026-10-09T12:35:00Z",
+   "amount": -5.75,
+   "description": "PRET A MANGER",
+   "mcc": null
+  },
+  {
+   "id": "3da91979-5d17-1bd3-e5a2-53faaf60e09b",
+   "user_id": "00000000-0000-0000-0000-000000000002",
+   "posted_at": "2026-10-10T10:59:00Z",
+   "amount": -20.67,
+   "description": "WAITROSE MANCHESTER",
+   "mcc": null
+  },
+  {
+   "id": "a280c6e9-b748-75c0-40c0-ea5d646c289c",
+   "user_id": "00000000-0000-0000-0000-000000000002",
+   "posted_at": "2026-10-10T14:32:00Z",
+   "amount": -20.0,
+   "description": "BET365",
+   "mcc": "7995"
+  },
+  {
+   "id": "f07f7184-ee0d-6873-fcac-6edfc86007be",
+   "user_id": "00000000-0000-0000-0000-000000000002",
+   "posted_at": "2026-10-12T06:15:00Z",
+   "amount": -22.0,
+   "description": "VODAFONE LTD",
+   "mcc": null
+  },
+  {
+   "id": "77d0696d-6979-367f-3314-b3052896b929",
+   "user_id": "00000000-0000-0000-0000-000000000002",
+   "posted_at": "2026-10-12T08:48:00Z",
+   "amount": -2.0,
+   "description": "TFGM BEE NETWORK BUS",
+   "mcc": null
+  },
+  {
+   "id": "5613f869-2c76-d717-67de-2f0d91cbe42e",
+   "user_id": "00000000-0000-0000-0000-000000000002",
+   "posted_at": "2026-10-12T12:33:00Z",
+   "amount": -7.05,
+   "description": "PRET A MANGER",
+   "mcc": null
+  },
+  {
+   "id": "cdc6f60a-a3ec-4c50-9786-a1609d7f11c7",
+   "user_id": "00000000-0000-0000-0000-000000000002",
+   "posted_at": "2026-10-12T13:48:00Z",
+   "amount": -17.75,
+   "description": "ALDI 114 MANCHESTER",
+   "mcc": null
+  },
+  {
+   "id": "9fb188bb-e58d-fb76-6953-25c2586f1a06",
+   "user_id": "00000000-0000-0000-0000-000000000002",
+   "posted_at": "2026-10-13T08:06:00Z",
+   "amount": -2.0,
+   "description": "TFGM BEE NETWORK BUS",
+   "mcc": null
+  },
+  {
+   "id": "999fb71e-7f5f-9647-f596-aab26736a982",
+   "user_id": "00000000-0000-0000-0000-000000000002",
+   "posted_at": "2026-10-13T09:41:00Z",
+   "amount": -19.9,
+   "description": "M&S SIMPLY FOOD 0188",
+   "mcc": null
+  },
+  {
+   "id": "fe9f144f-e3a1-3044-7c5c-af754814c6e8",
+   "user_id": "00000000-0000-0000-0000-000000000002",
+   "posted_at": "2026-10-14T06:10:00Z",
+   "amount": -10.99,
+   "description": "NETFLIX.COM",
+   "mcc": null
+  },
+  {
+   "id": "6ee78a04-e66f-6dd4-9dbf-e083b9bfccad",
+   "user_id": "00000000-0000-0000-0000-000000000002",
+   "posted_at": "2026-10-14T08:03:00Z",
+   "amount": -2.0,
+   "description": "TFGM BEE NETWORK BUS",
+   "mcc": null
+  },
+  {
+   "id": "5218c3cc-0632-c4b5-e77f-27706b9c12ee",
+   "user_id": "00000000-0000-0000-0000-000000000002",
+   "posted_at": "2026-10-14T17:21:00Z",
+   "amount": -14.98,
+   "description": "ALDI 114 MANCHESTER",
+   "mcc": null
+  },
+  {
+   "id": "f05e25de-e7be-5487-1d58-2a2a90e33137",
+   "user_id": "00000000-0000-0000-0000-000000000002",
+   "posted_at": "2026-10-14T20:26:00Z",
+   "amount": -20.68,
+   "description": "TESCO STORES 2231",
+   "mcc": null
+  },
+  {
+   "id": "86b652fb-1af9-bb78-b1e5-457c79c86032",
+   "user_id": "00000000-0000-0000-0000-000000000002",
+   "posted_at": "2026-10-15T08:25:00Z",
+   "amount": -2.0,
+   "description": "TFGM BEE NETWORK BUS",
+   "mcc": null
+  },
+  {
+   "id": "80aca7b7-3e0a-72bb-726b-df3bd8296b5c",
+   "user_id": "00000000-0000-0000-0000-000000000002",
+   "posted_at": "2026-10-15T18:56:00Z",
+   "amount": -6.33,
+   "description": "TESCO STORES 2231",
+   "mcc": null
+  },
+  {
+   "id": "911a0632-6bec-1e57-bf22-aabfa6460c06",
+   "user_id": "00000000-0000-0000-0000-000000000002",
+   "posted_at": "2026-10-16T08:10:00Z",
+   "amount": -2.0,
+   "description": "TFGM BEE NETWORK BUS",
+   "mcc": null
+  },
+  {
+   "id": "905fccc5-6be1-0afa-8bd0-ea9dddd26366",
+   "user_id": "00000000-0000-0000-0000-000000000002",
+   "posted_at": "2026-10-16T10:58:00Z",
+   "amount": -18.89,
+   "description": "WAITROSE MANCHESTER",
+   "mcc": null
+  },
+  {
+   "id": "e1d614ba-1fb1-1789-2144-d96fcad7efd0",
+   "user_id": "00000000-0000-0000-0000-000000000002",
+   "posted_at": "2026-10-16T12:04:00Z",
+   "amount": -5.89,
+   "description": "PRET A MANGER",
+   "mcc": null
+  },
+  {
+   "id": "5323c0cc-061f-e816-4c9c-cb6dba6a0316",
+   "user_id": "00000000-0000-0000-0000-000000000002",
+   "posted_at": "2026-10-16T19:29:00Z",
+   "amount": -18.02,
+   "description": "DELIVEROO",
+   "mcc": null
+  },
+  {
+   "id": "53ad385a-aece-88c0-b739-d06f5e229623",
+   "user_id": "00000000-0000-0000-0000-000000000002",
+   "posted_at": "2026-10-17T14:18:00Z",
+   "amount": -15.0,
+   "description": "BET365",
+   "mcc": "7995"
+  },
+  {
+   "id": "c6cb24b8-fa2e-f561-c6d3-5e20ef167214",
+   "user_id": "00000000-0000-0000-0000-000000000002",
+   "posted_at": "2026-10-17T14:19:00Z",
+   "amount": -11.16,
+   "description": "M&S SIMPLY FOOD 0188",
+   "mcc": null
+  },
+  {
+   "id": "7472aafb-07f8-3f00-4e64-aeb50bbf6c30",
+   "user_id": "00000000-0000-0000-0000-000000000002",
+   "posted_at": "2026-10-17T17:25:00Z",
+   "amount": -7.68,
+   "description": "M&S SIMPLY FOOD 0188",
+   "mcc": null
+  },
+  {
+   "id": "50dd5090-320c-9690-0f18-178be59483e0",
+   "user_id": "00000000-0000-0000-0000-000000000002",
+   "posted_at": "2026-10-17T19:13:00Z",
+   "amount": -23.47,
+   "description": "THE ALBION PUB",
+   "mcc": null
+  },
+  {
+   "id": "f86e4057-ca6f-5609-f0e5-ae54b19ef1ed",
+   "user_id": "00000000-0000-0000-0000-000000000002",
+   "posted_at": "2026-10-17T20:37:00Z",
+   "amount": -35.0,
+   "description": "COINBASE UK*TOPUP",
+   "mcc": null
+  },
+  {
+   "id": "3106aabf-3c78-b95a-a1e4-960c8879093f",
+   "user_id": "00000000-0000-0000-0000-000000000002",
+   "posted_at": "2026-10-18T09:11:00Z",
+   "amount": -17.07,
+   "description": "M&S SIMPLY FOOD 0188",
+   "mcc": null
+  },
+  {
+   "id": "de9d3709-461d-cb21-e67a-796af61b8542",
+   "user_id": "00000000-0000-0000-0000-000000000002",
+   "posted_at": "2026-10-18T09:41:00Z",
+   "amount": -7.02,
+   "description": "WAITROSE MANCHESTER",
+   "mcc": null
+  },
+  {
+   "id": "2e570fec-44d9-e2a2-324b-8a8ab0ef11b0",
+   "user_id": "00000000-0000-0000-0000-000000000002",
+   "posted_at": "2026-10-19T08:07:00Z",
+   "amount": -4.0,
+   "description": "TFGM BEE NETWORK BUS",
+   "mcc": null
+  },
+  {
+   "id": "4ea23ed1-dc8d-832c-3926-120d2b5d5f28",
+   "user_id": "00000000-0000-0000-0000-000000000002",
+   "posted_at": "2026-10-19T20:49:00Z",
+   "amount": -13.46,
+   "description": "TESCO STORES 2231",
+   "mcc": null
+  },
+  {
+   "id": "21ee6845-46de-a5b3-39d7-f891aac2b4d4",
+   "user_id": "00000000-0000-0000-0000-000000000002",
+   "posted_at": "2026-10-20T08:19:00Z",
+   "amount": -2.0,
+   "description": "TFGM BEE NETWORK BUS",
+   "mcc": null
+  },
+  {
+   "id": "fa257a76-3a9f-6b2c-8412-dba89703b6b0",
+   "user_id": "00000000-0000-0000-0000-000000000002",
+   "posted_at": "2026-10-20T14:51:00Z",
+   "amount": -17.58,
+   "description": "TESCO STORES 2231",
+   "mcc": null
+  },
+  {
+   "id": "8c50976c-bbf3-b2dd-4773-3aef2de8859a",
+   "user_id": "00000000-0000-0000-0000-000000000002",
+   "posted_at": "2026-10-21T08:12:00Z",
+   "amount": -2.0,
+   "description": "TFGM BEE NETWORK BUS",
+   "mcc": null
+  },
+  {
+   "id": "ea99d74a-762d-88df-9f35-ac0e089ac110",
+   "user_id": "00000000-0000-0000-0000-000000000002",
+   "posted_at": "2026-10-21T12:09:00Z",
+   "amount": -9.45,
+   "description": "PRET A MANGER",
+   "mcc": null
+  },
+  {
+   "id": "48d797ca-9628-e80d-9985-eaf001c94c87",
+   "user_id": "00000000-0000-0000-0000-000000000002",
+   "posted_at": "2026-10-21T17:04:00Z",
+   "amount": -15.09,
+   "description": "TESCO STORES 2231",
+   "mcc": null
+  },
+  {
+   "id": "c1745543-fd04-410a-48ff-d5612a1d87b1",
+   "user_id": "00000000-0000-0000-0000-000000000002",
+   "posted_at": "2026-10-21T17:16:00Z",
+   "amount": -13.05,
+   "description": "TESCO STORES 2231",
+   "mcc": null
+  },
+  {
+   "id": "70c03c24-ab1e-d25e-3c3f-860e6f81716d",
+   "user_id": "00000000-0000-0000-0000-000000000002",
+   "posted_at": "2026-10-22T08:07:00Z",
+   "amount": -4.0,
+   "description": "TFGM BEE NETWORK BUS",
+   "mcc": null
+  },
+  {
+   "id": "c8726351-7bc6-3c97-a883-ed6c52201acd",
+   "user_id": "00000000-0000-0000-0000-000000000002",
+   "posted_at": "2026-10-22T09:11:00Z",
+   "amount": -6.22,
+   "description": "WAITROSE MANCHESTER",
+   "mcc": null
+  },
+  {
+   "id": "2a48ea62-c56f-912e-c797-6afb98080ef7",
+   "user_id": "00000000-0000-0000-0000-000000000002",
+   "posted_at": "2026-10-22T09:33:00Z",
+   "amount": -10.54,
+   "description": "M&S SIMPLY FOOD 0188",
+   "mcc": null
+  },
+  {
+   "id": "427a5d0f-3c66-7632-b8b8-f699ca879db8",
+   "user_id": "00000000-0000-0000-0000-000000000002",
+   "posted_at": "2026-10-22T12:16:00Z",
+   "amount": -8.65,
+   "description": "PRET A MANGER",
+   "mcc": null
+  },
+  {
+   "id": "42e6f857-7fbb-fa8d-9a71-e5c89480d130",
+   "user_id": "00000000-0000-0000-0000-000000000002",
+   "posted_at": "2026-10-23T06:00:00Z",
+   "amount": 2648.37,
+   "description": "BRIGHTHILL CONSULTING PAYROLL",
+   "mcc": null
+  },
+  {
+   "id": "92988e58-0d71-b34e-b6f7-dc8ef87b6a30",
+   "user_id": "00000000-0000-0000-0000-000000000002",
+   "posted_at": "2026-10-23T08:12:00Z",
+   "amount": -4.0,
+   "description": "TFGM BEE NETWORK BUS",
+   "mcc": null
+  },
+  {
+   "id": "7f00b43d-9bca-26c9-048d-cc839bb999f8",
+   "user_id": "00000000-0000-0000-0000-000000000002",
+   "posted_at": "2026-10-23T12:11:00Z",
+   "amount": -6.8,
+   "description": "PRET A MANGER",
+   "mcc": null
+  },
+  {
+   "id": "34709ea4-c25e-dc49-db24-b697557682aa",
+   "user_id": "00000000-0000-0000-0000-000000000002",
+   "posted_at": "2026-10-24T14:15:00Z",
+   "amount": -20.0,
+   "description": "BET365",
+   "mcc": "7995"
+  },
+  {
+   "id": "b8e28f6c-caa6-cccd-9459-75b48b11a72a",
+   "user_id": "00000000-0000-0000-0000-000000000002",
+   "posted_at": "2026-10-24T19:58:00Z",
+   "amount": -22.81,
+   "description": "THE ALBION PUB",
+   "mcc": null
+  },
+  {
+   "id": "16a66d06-7f93-8929-96b4-b32ec3ea68e8",
+   "user_id": "00000000-0000-0000-0000-000000000002",
+   "posted_at": "2026-10-25T15:02:00Z",
+   "amount": -18.22,
+   "description": "WAITROSE MANCHESTER",
+   "mcc": null
+  },
+  {
+   "id": "28e95630-3f86-1827-413c-dff560fd1791",
+   "user_id": "00000000-0000-0000-0000-000000000002",
+   "posted_at": "2026-10-26T07:00:00Z",
+   "amount": -300.0,
+   "description": "SAVINGS POT TRANSFER",
+   "mcc": null
+  },
+  {
+   "id": "858d35c3-748f-dda2-be9e-5a852503044d",
+   "user_id": "00000000-0000-0000-0000-000000000002",
+   "posted_at": "2026-10-26T08:38:00Z",
+   "amount": -2.0,
+   "description": "TFGM BEE NETWORK BUS",
+   "mcc": null
+  },
+  {
+   "id": "8e5bf71a-6496-6f84-1767-9f76243c7836",
+   "user_id": "00000000-0000-0000-0000-000000000002",
+   "posted_at": "2026-10-26T13:26:00Z",
+   "amount": -63.95,
+   "description": "AMAZON.CO.UK",
+   "mcc": null
+  },
+  {
+   "id": "c2e23d9c-c162-44a5-7d52-5f5d20dff701",
+   "user_id": "00000000-0000-0000-0000-000000000002",
+   "posted_at": "2026-10-26T14:44:00Z",
+   "amount": -9.11,
+   "description": "TESCO STORES 2231",
+   "mcc": null
+  },
+  {
+   "id": "778326b7-691f-08cf-50d8-09e60fa701f3",
+   "user_id": "00000000-0000-0000-0000-000000000002",
+   "posted_at": "2026-10-26T20:42:00Z",
+   "amount": -20.79,
+   "description": "ALDI 114 MANCHESTER",
+   "mcc": null
+  },
+  {
+   "id": "95d18bd8-672e-4fd9-2910-a96a0a2818e1",
+   "user_id": "00000000-0000-0000-0000-000000000002",
+   "posted_at": "2026-10-27T08:39:00Z",
+   "amount": -2.0,
+   "description": "TFGM BEE NETWORK BUS",
+   "mcc": null
+  },
+  {
+   "id": "8d48737a-1e6c-9c86-40d2-4dfb4bb315c6",
+   "user_id": "00000000-0000-0000-0000-000000000002",
+   "posted_at": "2026-10-27T10:02:00Z",
+   "amount": -17.92,
+   "description": "M&S SIMPLY FOOD 0188",
+   "mcc": null
+  },
+  {
+   "id": "f2481fb2-5648-a407-4f0d-8ee65d2f0ae7",
+   "user_id": "00000000-0000-0000-0000-000000000002",
+   "posted_at": "2026-10-27T12:26:00Z",
+   "amount": -13.77,
+   "description": "M&S SIMPLY FOOD 0188",
+   "mcc": null
+  },
+  {
+   "id": "ec855fd5-9735-6999-e269-4fa2dd4ae1bd",
+   "user_id": "00000000-0000-0000-0000-000000000002",
+   "posted_at": "2026-10-27T15:36:00Z",
+   "amount": -53.21,
+   "description": "AMAZON.CO.UK",
+   "mcc": null
+  },
+  {
+   "id": "7275ce17-78fa-27cc-4efc-89d1c27517c1",
+   "user_id": "00000000-0000-0000-0000-000000000002",
+   "posted_at": "2026-10-28T08:38:00Z",
+   "amount": -2.0,
+   "description": "TFGM BEE NETWORK BUS",
+   "mcc": null
+  },
+  {
+   "id": "8a52bddc-345f-997c-7cb2-d605dcdb8433",
+   "user_id": "00000000-0000-0000-0000-000000000002",
+   "posted_at": "2026-10-28T12:40:00Z",
+   "amount": -8.22,
+   "description": "PRET A MANGER",
+   "mcc": null
+  },
+  {
+   "id": "36e67027-6674-ed0b-3422-0a167aed9c15",
+   "user_id": "00000000-0000-0000-0000-000000000002",
+   "posted_at": "2026-10-28T15:22:00Z",
+   "amount": -9.68,
+   "description": "M&S SIMPLY FOOD 0188",
+   "mcc": null
+  },
+  {
+   "id": "3723f272-0c9b-a315-c806-3cf060f45290",
+   "user_id": "00000000-0000-0000-0000-000000000002",
+   "posted_at": "2026-10-28T15:59:00Z",
+   "amount": -21.02,
+   "description": "ALDI 114 MANCHESTER",
+   "mcc": null
+  },
+  {
+   "id": "1a790535-44c4-6a4d-37b0-b33cb716dabf",
+   "user_id": "00000000-0000-0000-0000-000000000002",
+   "posted_at": "2026-10-29T08:36:00Z",
+   "amount": -4.0,
+   "description": "TFGM BEE NETWORK BUS",
+   "mcc": null
+  },
+  {
+   "id": "c4041892-2318-5644-5c17-c690c6e0a34b",
+   "user_id": "00000000-0000-0000-0000-000000000002",
+   "posted_at": "2026-10-29T12:09:00Z",
+   "amount": -8.41,
+   "description": "PRET A MANGER",
+   "mcc": null
+  },
+  {
+   "id": "6498f6ab-831a-f572-4328-7a00bdda9a61",
+   "user_id": "00000000-0000-0000-0000-000000000002",
+   "posted_at": "2026-10-29T14:17:00Z",
+   "amount": -16.8,
+   "description": "M&S SIMPLY FOOD 0188",
+   "mcc": null
+  },
+  {
+   "id": "154a7ddd-732e-ed72-6268-bcbbd6bcedab",
+   "user_id": "00000000-0000-0000-0000-000000000002",
+   "posted_at": "2026-10-30T08:01:00Z",
+   "amount": -2.0,
+   "description": "TFGM BEE NETWORK BUS",
+   "mcc": null
+  },
+  {
+   "id": "64db6110-4d5f-783d-0e0e-5bfaab52097f",
+   "user_id": "00000000-0000-0000-0000-000000000002",
+   "posted_at": "2026-10-30T19:16:00Z",
+   "amount": -38.81,
+   "description": "THE ALBION PUB",
+   "mcc": null
+  },
+  {
+   "id": "6c8ec653-6922-8d2f-4ff1-95553561d35b",
+   "user_id": "00000000-0000-0000-0000-000000000002",
+   "posted_at": "2026-10-31T11:32:00Z",
+   "amount": -16.31,
+   "description": "TESCO STORES 2231",
+   "mcc": null
+  },
+  {
+   "id": "9145a172-211e-53c5-d41b-350d9050a1d7",
+   "user_id": "00000000-0000-0000-0000-000000000002",
+   "posted_at": "2026-10-31T14:36:00Z",
+   "amount": -15.0,
+   "description": "BET365",
+   "mcc": "7995"
+  },
+  {
+   "id": "4081a5d1-6b57-7b8c-4567-226cb005c3e3",
+   "user_id": "00000000-0000-0000-0000-000000000002",
+   "posted_at": "2026-10-31T18:17:00Z",
+   "amount": -30.0,
+   "description": "COINBASE UK*TOPUP",
+   "mcc": null
+  },
+  {
+   "id": "b9b91493-5059-398d-42a9-01678c534a24",
+   "user_id": "00000000-0000-0000-0000-000000000002",
+   "posted_at": "2026-10-31T19:44:00Z",
+   "amount": -21.67,
+   "description": "THE ALBION PUB",
+   "mcc": null
+  },
+  {
+   "id": "47c499d2-d5a8-43ee-346e-2778e14f6d1e",
+   "user_id": "00000000-0000-0000-0000-000000000002",
+   "posted_at": "2026-11-01T06:30:00Z",
+   "amount": -950.0,
+   "description": "HARGREAVES LETTINGS RENT",
+   "mcc": null
+  },
+  {
+   "id": "67c26059-730a-01c3-b677-e8fe88f4043d",
+   "user_id": "00000000-0000-0000-0000-000000000002",
+   "posted_at": "2026-11-01T06:31:00Z",
+   "amount": -164.0,
+   "description": "MANCHESTER CITY COUNCIL",
+   "mcc": null
+  },
+  {
+   "id": "584f1361-5ed6-b1f7-4ac5-5ecf1a468fa4",
+   "user_id": "00000000-0000-0000-0000-000000000002",
+   "posted_at": "2026-11-01T15:33:00Z",
+   "amount": -21.45,
+   "description": "M&S SIMPLY FOOD 0188",
+   "mcc": null
+  },
+  {
+   "id": "a1617fc9-bf42-2b84-0647-4e46d9243f6f",
+   "user_id": "00000000-0000-0000-0000-000000000002",
+   "posted_at": "2026-11-02T06:10:00Z",
+   "amount": -24.99,
+   "description": "PUREGYM MANCHESTER",
+   "mcc": null
+  },
+  {
+   "id": "6d7e05f6-ccaf-68bc-1703-208942740830",
+   "user_id": "00000000-0000-0000-0000-000000000002",
+   "posted_at": "2026-11-02T08:15:00Z",
+   "amount": -4.0,
+   "description": "TFGM BEE NETWORK BUS",
+   "mcc": null
+  },
+  {
+   "id": "48d93f3b-5403-d523-ee40-b69362239f96",
+   "user_id": "00000000-0000-0000-0000-000000000002",
+   "posted_at": "2026-11-02T12:31:00Z",
+   "amount": -5.74,
+   "description": "PRET A MANGER",
+   "mcc": null
+  },
+  {
+   "id": "5fcafd2c-de4d-d238-c654-afe7f48440df",
+   "user_id": "00000000-0000-0000-0000-000000000002",
+   "posted_at": "2026-11-02T12:35:00Z",
+   "amount": -18.1,
+   "description": "TESCO STORES 2231",
+   "mcc": null
+  },
+  {
+   "id": "eb484ea4-1120-c562-aba5-479ca911453e",
+   "user_id": "00000000-0000-0000-0000-000000000002",
+   "posted_at": "2026-11-02T18:00:00Z",
+   "amount": -20.37,
+   "description": "WAITROSE MANCHESTER",
+   "mcc": null
+  },
+  {
+   "id": "33b0e0c7-6706-f320-ecec-ef872899a68e",
+   "user_id": "00000000-0000-0000-0000-000000000002",
+   "posted_at": "2026-11-03T06:10:00Z",
+   "amount": -11.99,
+   "description": "SPOTIFY UK",
+   "mcc": null
+  },
+  {
+   "id": "5d4258f2-1ece-a1d5-6430-ec76e70c4e05",
+   "user_id": "00000000-0000-0000-0000-000000000002",
+   "posted_at": "2026-11-03T08:44:00Z",
+   "amount": -2.0,
+   "description": "TFGM BEE NETWORK BUS",
+   "mcc": null
+  },
+  {
+   "id": "57827a23-be26-8b64-17d1-f761853bd11f",
+   "user_id": "00000000-0000-0000-0000-000000000002",
+   "posted_at": "2026-11-03T11:22:00Z",
+   "amount": -17.64,
+   "description": "M&S SIMPLY FOOD 0188",
+   "mcc": null
+  },
+  {
+   "id": "4efb4d79-8d9d-d406-da59-df3db38d37f2",
+   "user_id": "00000000-0000-0000-0000-000000000002",
+   "posted_at": "2026-11-03T15:51:00Z",
+   "amount": -7.87,
+   "description": "WAITROSE MANCHESTER",
+   "mcc": null
+  },
+  {
+   "id": "782087cd-a46f-0613-2f9d-f833e316391e",
+   "user_id": "00000000-0000-0000-0000-000000000002",
+   "posted_at": "2026-11-04T08:16:00Z",
+   "amount": -4.0,
+   "description": "TFGM BEE NETWORK BUS",
+   "mcc": null
+  },
+  {
+   "id": "4c1c9bd9-90d2-c74d-5f8e-b49ee44a832d",
+   "user_id": "00000000-0000-0000-0000-000000000002",
+   "posted_at": "2026-11-04T10:01:00Z",
+   "amount": -5.67,
+   "description": "WAITROSE MANCHESTER",
+   "mcc": null
+  },
+  {
+   "id": "b510c539-937f-f029-07f1-7f7c5cd50966",
+   "user_id": "00000000-0000-0000-0000-000000000002",
+   "posted_at": "2026-11-04T12:21:00Z",
+   "amount": -9.32,
+   "description": "PRET A MANGER",
+   "mcc": null
+  },
+  {
+   "id": "40dd39c3-e2d6-4c17-5356-07fab81d1113",
+   "user_id": "00000000-0000-0000-0000-000000000002",
+   "posted_at": "2026-11-04T16:54:00Z",
+   "amount": -16.13,
+   "description": "ALDI 114 MANCHESTER",
+   "mcc": null
+  },
+  {
+   "id": "8af8dbda-9eed-a7b5-0c34-915aa0995c4b",
+   "user_id": "00000000-0000-0000-0000-000000000002",
+   "posted_at": "2026-11-05T06:15:00Z",
+   "amount": -88.0,
+   "description": "OCTOPUS ENERGY DD",
+   "mcc": null
+  },
+  {
+   "id": "265cfb50-0566-dd78-fa1b-3fec79193cbc",
+   "user_id": "00000000-0000-0000-0000-000000000002",
+   "posted_at": "2026-11-05T08:31:00Z",
+   "amount": -2.0,
+   "description": "TFGM BEE NETWORK BUS",
+   "mcc": null
+  },
+  {
+   "id": "4f00e539-45da-0c2c-81cf-cbfcaef4fc22",
+   "user_id": "00000000-0000-0000-0000-000000000002",
+   "posted_at": "2026-11-05T15:58:00Z",
+   "amount": -12.31,
+   "description": "M&S SIMPLY FOOD 0188",
+   "mcc": null
+  },
+  {
+   "id": "7316d27c-e135-ad8a-76c6-7b77d460fdc2",
+   "user_id": "00000000-0000-0000-0000-000000000002",
+   "posted_at": "2026-11-05T18:26:00Z",
+   "amount": -6.21,
+   "description": "TESCO STORES 2231",
+   "mcc": null
+  },
+  {
+   "id": "8f8e3c8a-d2ce-d6d3-9fd7-d024143c1eb4",
+   "user_id": "00000000-0000-0000-0000-000000000002",
+   "posted_at": "2026-11-06T08:41:00Z",
+   "amount": -4.0,
+   "description": "TFGM BEE NETWORK BUS",
+   "mcc": null
+  },
+  {
+   "id": "7e5d5571-8c09-1074-3d45-0d5200e53062",
+   "user_id": "00000000-0000-0000-0000-000000000002",
+   "posted_at": "2026-11-06T12:33:00Z",
+   "amount": -5.02,
+   "description": "ALDI 114 MANCHESTER",
+   "mcc": null
+  },
+  {
+   "id": "503830c4-04f5-27a6-e2e6-b2401a98c993",
+   "user_id": "00000000-0000-0000-0000-000000000002",
+   "posted_at": "2026-11-06T19:50:00Z",
+   "amount": -27.01,
+   "description": "DISHOOM MANCHESTER",
+   "mcc": null
+  },
+  {
+   "id": "bfbc40fc-5de9-e15e-4924-2e5a6a304a7b",
+   "user_id": "00000000-0000-0000-0000-000000000002",
+   "posted_at": "2026-11-07T16:51:00Z",
+   "amount": -15.71,
+   "description": "WAITROSE MANCHESTER",
+   "mcc": null
+  },
+  {
+   "id": "b073563a-9f22-051a-5543-aa8b28d2fe33",
+   "user_id": "00000000-0000-0000-0000-000000000002",
+   "posted_at": "2026-11-07T19:10:00Z",
+   "amount": -23.31,
+   "description": "M&S SIMPLY FOOD 0188",
+   "mcc": null
+  },
+  {
+   "id": "2d8359ca-b4c8-0ff5-5332-4dfe5cba8835",
+   "user_id": "00000000-0000-0000-0000-000000000002",
+   "posted_at": "2026-11-07T19:31:00Z",
+   "amount": -24.4,
+   "description": "DELIVEROO",
+   "mcc": null
+  }
+ ]
+}
