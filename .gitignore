@@ -1,0 +1,17 @@
+.env
+.env.*
+*.secret
+*.pem
+
+# Node / Deno tooling
+node_modules/
+.deno/
+
+# OS/editor junk
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Logs
+*.log

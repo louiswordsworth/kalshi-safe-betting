@@ -1,0 +1,1510 @@
+{
+ "today": "2026-11-07",
+ "balance": 320.0,
+ "transactions": [
+  {
+   "id": "5d9dc9f8-1818-e811-892f-902bd23f0824",
+   "user_id": "00000000-0000-0000-0000-000000000001",
+   "posted_at": "2026-08-09T11:25:00Z",
+   "amount": -11.64,
+   "description": "TESCO STORES 2231",
+   "mcc": null
+  },
+  {
+   "id": "93bd04cf-0fd6-30f1-f29d-0da9953f48f1",
+   "user_id": "00000000-0000-0000-0000-000000000001",
+   "posted_at": "2026-08-10T08:40:00Z",
+   "amount": -2.0,
+   "description": "TFGM BEE NETWORK BUS",
+   "mcc": null
+  },
+  {
+   "id": "11e20b8f-6b0d-549b-6f03-675a1600a35a",
+   "user_id": "00000000-0000-0000-0000-000000000001",
+   "posted_at": "2026-08-10T09:58:00Z",
+   "amount": -9.84,
+   "description": "TESCO STORES 2231",
+   "mcc": null
+  },
+  {
+   "id": "f28c105d-1fb1-7c23-90c1-92cfd3ac94af",
+   "user_id": "00000000-0000-0000-0000-000000000001",
+   "posted_at": "2026-08-10T12:05:00Z",
+   "amount": -10.39,
+   "description": "TESCO STORES 2231",
+   "mcc": null
+  },
+  {
+   "id": "18f135d2-5f55-7203-3018-50c5a38fd547",
+   "user_id": "00000000-0000-0000-0000-000000000001",
+   "posted_at": "2026-08-11T08:36:00Z",
+   "amount": -2.0,
+   "description": "TFGM BEE NETWORK BUS",
+   "mcc": null
+  },
+  {
+   "id": "4a23d596-2217-bead-dbc4-96cb8e81973e",
+   "user_id": "00000000-0000-0000-0000-000000000001",
+   "posted_at": "2026-08-11T15:03:00Z",
+   "amount": -15.7,
+   "description": "TESCO STORES 2231",
+   "mcc": null
+  },
+  {
+   "id": "2e44158b-ae97-ba94-d0ed-a82f8f6d0558",
+   "user_id": "00000000-0000-0000-0000-000000000001",
+   "posted_at": "2026-08-11T15:09:00Z",
+   "amount": -10.26,
+   "description": "CO-OP GROUP 0412",
+   "mcc": null
+  },
+  {
+   "id": "907a70c3-1012-f037-b64c-e4228c38fb29",
+   "user_id": "00000000-0000-0000-0000-000000000001",
+   "posted_at": "2026-08-12T06:15:00Z",
+   "amount": -18.0,
+   "description": "EE LIMITED MOBILE",
+   "mcc": null
+  },
+  {
+   "id": "c7a2ea20-b2f1-4c94-2e05-319acb5c7427",
+   "user_id": "00000000-0000-0000-0000-000000000001",
+   "posted_at": "2026-08-13T08:15:00Z",
+   "amount": -2.0,
+   "description": "TFGM BEE NETWORK BUS",
+   "mcc": null
+  },
+  {
+   "id": "7403e430-ec66-a787-95e7-61d17731af10",
+   "user_id": "00000000-0000-0000-0000-000000000001",
+   "posted_at": "2026-08-13T19:34:00Z",
+   "amount": -8.84,
+   "description": "CO-OP GROUP 0412",
+   "mcc": null
+  },
+  {
+   "id": "e00902c7-7ebf-f206-8673-47214cdd2055",
+   "user_id": "00000000-0000-0000-0000-000000000001",
+   "posted_at": "2026-08-14T09:05:00Z",
+   "amount": 196.08,
+   "description": "SHIFTWORKS LTD PAYROLL",
+   "mcc": null
+  },
+  {
+   "id": "c3baea9e-13de-ef86-ab10-31d0f646e1f4",
+   "user_id": "00000000-0000-0000-0000-000000000001",
+   "posted_at": "2026-08-14T19:31:00Z",
+   "amount": -14.37,
+   "description": "JUST EAT.CO.UK",
+   "mcc": null
+  },
+  {
+   "id": "2a3af4d4-6b0a-18e8-830e-07bc1e398f10",
+   "user_id": "00000000-0000-0000-0000-000000000001",
+   "posted_at": "2026-08-14T20:28:00Z",
+   "amount": -7.1,
+   "description": "TESCO STORES 2231",
+   "mcc": null
+  },
+  {
+   "id": "bcf1fcb5-4109-d8d6-5f7b-07b84485c04f",
+   "user_id": "00000000-0000-0000-0000-000000000001",
+   "posted_at": "2026-08-15T14:40:00Z",
+   "amount": -15.0,
+   "description": "SKY BET",
+   "mcc": "7995"
+  },
+  {
+   "id": "451abd81-f1d6-9ed6-17f5-e837d70820fe",
+   "user_id": "00000000-0000-0000-0000-000000000001",
+   "posted_at": "2026-08-15T16:37:00Z",
+   "amount": -13.46,
+   "description": "TESCO STORES 2231",
+   "mcc": null
+  },
+  {
+   "id": "98289fcd-59a5-4a7b-b1fe-e08f57124242",
+   "user_id": "00000000-0000-0000-0000-000000000001",
+   "posted_at": "2026-08-15T18:50:00Z",
+   "amount": -14.44,
+   "description": "CO-OP GROUP 0412",
+   "mcc": null
+  },
+  {
+   "id": "a5aa3c81-4f42-6dcb-b394-fb36bb2d420f",
+   "user_id": "00000000-0000-0000-0000-000000000001",
+   "posted_at": "2026-08-15T19:42:00Z",
+   "amount": -11.52,
+   "description": "JUST EAT.CO.UK",
+   "mcc": null
+  },
+  {
+   "id": "c4aaeac1-37dc-76fb-0f17-a3007e62aa0a",
+   "user_id": "00000000-0000-0000-0000-000000000001",
+   "posted_at": "2026-08-16T16:22:00Z",
+   "amount": -5.6,
+   "description": "TESCO STORES 2231",
+   "mcc": null
+  },
+  {
+   "id": "05c6af07-58d5-563d-ab2c-d31ee3151288",
+   "user_id": "00000000-0000-0000-0000-000000000001",
+   "posted_at": "2026-08-16T19:52:00Z",
+   "amount": -9.07,
+   "description": "SAINSBURYS S/MKT",
+   "mcc": null
+  },
+  {
+   "id": "230d977e-e225-7159-4720-771f8ca81811",
+   "user_id": "00000000-0000-0000-0000-000000000001",
+   "posted_at": "2026-08-17T08:25:00Z",
+   "amount": -2.0,
+   "description": "TFGM BEE NETWORK BUS",
+   "mcc": null
+  },
+  {
+   "id": "14a0f9e7-7f1b-103c-df15-82b0eab477d2",
+   "user_id": "00000000-0000-0000-0000-000000000001",
+   "posted_at": "2026-08-17T11:47:00Z",
+   "amount": -6.6,
+   "description": "SAINSBURYS S/MKT",
+   "mcc": null
+  },
+  {
+   "id": "a8948c89-3b61-8676-26bb-7dbd2d1c9af0",
+   "user_id": "00000000-0000-0000-0000-000000000001",
+   "posted_at": "2026-08-18T08:05:00Z",
+   "amount": -2.0,
+   "description": "TFGM BEE NETWORK BUS",
+   "mcc": null
+  },
+  {
+   "id": "f52ddf5d-6164-99c9-e25a-7605aec6f024",
+   "user_id": "00000000-0000-0000-0000-000000000001",
+   "posted_at": "2026-08-18T17:17:00Z",
+   "amount": -12.33,
+   "description": "CO-OP GROUP 0412",
+   "mcc": null
+  },
+  {
+   "id": "f3fe39c0-5190-88f5-90fb-bd119c1caaf7",
+   "user_id": "00000000-0000-0000-0000-000000000001",
+   "posted_at": "2026-08-19T08:23:00Z",
+   "amount": -2.0,
+   "description": "TFGM BEE NETWORK BUS",
+   "mcc": null
+  },
+  {
+   "id": "254b0c4e-010c-4759-482c-9cbc43435cc5",
+   "user_id": "00000000-0000-0000-0000-000000000001",
+   "posted_at": "2026-08-19T09:31:00Z",
+   "amount": -13.89,
+   "description": "ALDI 114 MANCHESTER",
+   "mcc": null
+  },
+  {
+   "id": "c7ac1491-def8-8334-e647-cb8f74e69a5d",
+   "user_id": "00000000-0000-0000-0000-000000000001",
+   "posted_at": "2026-08-20T20:54:00Z",
+   "amount": -9.94,
+   "description": "TESCO STORES 2231",
+   "mcc": null
+  },
+  {
+   "id": "a260cd0b-7b45-145c-1a81-682c64e50cad",
+   "user_id": "00000000-0000-0000-0000-000000000001",
+   "posted_at": "2026-08-21T09:05:00Z",
+   "amount": 228.4,
+   "description": "SHIFTWORKS LTD PAYROLL",
+   "mcc": null
+  },
+  {
+   "id": "570dc195-1c24-42f9-298c-b3a570ccec31",
+   "user_id": "00000000-0000-0000-0000-000000000001",
+   "posted_at": "2026-08-21T09:12:00Z",
+   "amount": -4.34,
+   "description": "ALDI 114 MANCHESTER",
+   "mcc": null
+  },
+  {
+   "id": "9d1de2a0-5d15-8a2f-f2ee-4e4519f9919c",
+   "user_id": "00000000-0000-0000-0000-000000000001",
+   "posted_at": "2026-08-21T19:36:00Z",
+   "amount": -12.21,
+   "description": "JUST EAT.CO.UK",
+   "mcc": null
+  },
+  {
+   "id": "3f5783ea-707c-5f3d-32fe-1f3642a55162",
+   "user_id": "00000000-0000-0000-0000-000000000001",
+   "posted_at": "2026-08-22T14:40:00Z",
+   "amount": -10.0,
+   "description": "SKY BET",
+   "mcc": "7995"
+  },
+  {
+   "id": "f4998d7c-4093-f6de-a268-aa872607679d",
+   "user_id": "00000000-0000-0000-0000-000000000001",
+   "posted_at": "2026-08-22T19:13:00Z",
+   "amount": -15.91,
+   "description": "JUST EAT.CO.UK",
+   "mcc": null
+  },
+  {
+   "id": "fa529ba3-fe3b-fada-7cf2-0724d953ee26",
+   "user_id": "00000000-0000-0000-0000-000000000001",
+   "posted_at": "2026-08-23T18:23:00Z",
+   "amount": -9.43,
+   "description": "TESCO STORES 2231",
+   "mcc": null
+  },
+  {
+   "id": "3488f876-05e9-99f3-842e-7fc229540a6e",
+   "user_id": "00000000-0000-0000-0000-000000000001",
+   "posted_at": "2026-08-24T08:44:00Z",
+   "amount": -2.0,
+   "description": "TFGM BEE NETWORK BUS",
+   "mcc": null
+  },
+  {
+   "id": "bd87a865-57b6-fb7e-bfea-a1551a28f7b3",
+   "user_id": "00000000-0000-0000-0000-000000000001",
+   "posted_at": "2026-08-24T16:30:00Z",
+   "amount": -7.4,
+   "description": "ALDI 114 MANCHESTER",
+   "mcc": null
+  },
+  {
+   "id": "80b0c08b-c770-2420-8aa4-248c8857f9a4",
+   "user_id": "00000000-0000-0000-0000-000000000001",
+   "posted_at": "2026-08-25T08:14:00Z",
+   "amount": -2.0,
+   "description": "TFGM BEE NETWORK BUS",
+   "mcc": null
+  },
+  {
+   "id": "fa7f0eab-4c4f-9b06-8732-2e25c215a82a",
+   "user_id": "00000000-0000-0000-0000-000000000001",
+   "posted_at": "2026-08-25T14:09:00Z",
+   "amount": -12.13,
+   "description": "TESCO STORES 2231",
+   "mcc": null
+  },
+  {
+   "id": "2ac34446-e883-a1d4-5de0-099784b5a818",
+   "user_id": "00000000-0000-0000-0000-000000000001",
+   "posted_at": "2026-08-25T19:55:00Z",
+   "amount": -4.64,
+   "description": "CO-OP GROUP 0412",
+   "mcc": null
+  },
+  {
+   "id": "66934036-d17e-4497-3d48-82a5ce5b2a92",
+   "user_id": "00000000-0000-0000-0000-000000000001",
+   "posted_at": "2026-08-26T19:14:00Z",
+   "amount": -11.17,
+   "description": "ALDI 114 MANCHESTER",
+   "mcc": null
+  },
+  {
+   "id": "5822cb77-f4de-2c08-9aea-6429b1491e24",
+   "user_id": "00000000-0000-0000-0000-000000000001",
+   "posted_at": "2026-08-27T08:12:00Z",
+   "amount": -2.0,
+   "description": "TFGM BEE NETWORK BUS",
+   "mcc": null
+  },
+  {
+   "id": "4787f93b-ca44-eb86-0726-e25cfd56a926",
+   "user_id": "00000000-0000-0000-0000-000000000001",
+   "posted_at": "2026-08-27T12:33:00Z",
+   "amount": -9.66,
+   "description": "TESCO STORES 2231",
+   "mcc": null
+  },
+  {
+   "id": "38703800-149e-259b-5d58-c705f979d04a",
+   "user_id": "00000000-0000-0000-0000-000000000001",
+   "posted_at": "2026-08-28T07:30:00Z",
+   "amount": -520.0,
+   "description": "OAKWOOD LETTINGS RENT",
+   "mcc": null
+  },
+  {
+   "id": "9fc2d0a1-7b8f-2ab5-3451-d0135675f6ad",
+   "user_id": "00000000-0000-0000-0000-000000000001",
+   "posted_at": "2026-08-28T08:12:00Z",
+   "amount": -2.0,
+   "description": "TFGM BEE NETWORK BUS",
+   "mcc": null
+  },
+  {
+   "id": "f47aebdd-597a-1ecf-fcf0-0fecb91ee9e5",
+   "user_id": "00000000-0000-0000-0000-000000000001",
+   "posted_at": "2026-08-28T09:05:00Z",
+   "amount": 240.81,
+   "description": "SHIFTWORKS LTD PAYROLL",
+   "mcc": null
+  },
+  {
+   "id": "d5ab8b4d-15b4-0aeb-a4a4-5effccb573d9",
+   "user_id": "00000000-0000-0000-0000-000000000001",
+   "posted_at": "2026-08-29T09:30:00Z",
+   "amount": -14.86,
+   "description": "CO-OP GROUP 0412",
+   "mcc": null
+  },
+  {
+   "id": "27401fa0-3c49-fdbd-3ece-9f2c2f8c6c08",
+   "user_id": "00000000-0000-0000-0000-000000000001",
+   "posted_at": "2026-08-29T14:40:00Z",
+   "amount": -15.0,
+   "description": "SKY BET",
+   "mcc": "7995"
+  },
+  {
+   "id": "6f15b6ad-2db3-997f-e396-39be7a605a91",
+   "user_id": "00000000-0000-0000-0000-000000000001",
+   "posted_at": "2026-08-29T19:07:00Z",
+   "amount": -14.87,
+   "description": "ALDI 114 MANCHESTER",
+   "mcc": null
+  },
+  {
+   "id": "f26149ed-be4c-5ce6-66c1-494e7691b06f",
+   "user_id": "00000000-0000-0000-0000-000000000001",
+   "posted_at": "2026-08-30T10:51:00Z",
+   "amount": -15.33,
+   "description": "SAINSBURYS S/MKT",
+   "mcc": null
+  },
+  {
+   "id": "070d7109-2085-9634-fe3c-9c8f2b855c1f",
+   "user_id": "00000000-0000-0000-0000-000000000001",
+   "posted_at": "2026-09-01T06:20:00Z",
+   "amount": -21.99,
+   "description": "PUREGYM MANCHESTER",
+   "mcc": null
+  },
+  {
+   "id": "2188287e-8c5c-715f-8c74-fc1e27e9e06f",
+   "user_id": "00000000-0000-0000-0000-000000000001",
+   "posted_at": "2026-09-01T08:22:00Z",
+   "amount": -2.0,
+   "description": "TFGM BEE NETWORK BUS",
+   "mcc": null
+  },
+  {
+   "id": "faf55496-988a-f3fb-d396-30d69c9011ef",
+   "user_id": "00000000-0000-0000-0000-000000000001",
+   "posted_at": "2026-09-01T18:57:00Z",
+   "amount": -9.32,
+   "description": "ALDI 114 MANCHESTER",
+   "mcc": null
+  },
+  {
+   "id": "bfdefc15-86ce-03f9-1a4f-44f9a6511445",
+   "user_id": "00000000-0000-0000-0000-000000000001",
+   "posted_at": "2026-09-02T08:46:00Z",
+   "amount": -2.0,
+   "description": "TFGM BEE NETWORK BUS",
+   "mcc": null
+  },
+  {
+   "id": "fc8e80b3-6f0e-2289-23a5-ef88ef02090b",
+   "user_id": "00000000-0000-0000-0000-000000000001",
+   "posted_at": "2026-09-03T06:10:00Z",
+   "amount": -5.99,
+   "description": "SPOTIFY UK",
+   "mcc": null
+  },
+  {
+   "id": "0f977044-218e-0b7b-d58d-cdb46b446806",
+   "user_id": "00000000-0000-0000-0000-000000000001",
+   "posted_at": "2026-09-03T08:34:00Z",
+   "amount": -2.0,
+   "description": "TFGM BEE NETWORK BUS",
+   "mcc": null
+  },
+  {
+   "id": "9620bf0d-c380-84a0-3d93-fd4c804c25d6",
+   "user_id": "00000000-0000-0000-0000-000000000001",
+   "posted_at": "2026-09-03T12:01:00Z",
+   "amount": -6.65,
+   "description": "CO-OP GROUP 0412",
+   "mcc": null
+  },
+  {
+   "id": "1ece615d-b9a6-442e-9e7d-6b377936d536",
+   "user_id": "00000000-0000-0000-0000-000000000001",
+   "posted_at": "2026-09-04T08:09:00Z",
+   "amount": -2.0,
+   "description": "TFGM BEE NETWORK BUS",
+   "mcc": null
+  },
+  {
+   "id": "e77ffe48-d0a6-ec17-9556-585ea997f351",
+   "user_id": "00000000-0000-0000-0000-000000000001",
+   "posted_at": "2026-09-04T09:05:00Z",
+   "amount": 215.9,
+   "description": "SHIFTWORKS LTD PAYROLL",
+   "mcc": null
+  },
+  {
+   "id": "cc966f46-c6aa-7d55-0101-b8119bca3cb7",
+   "user_id": "00000000-0000-0000-0000-000000000001",
+   "posted_at": "2026-09-04T09:55:00Z",
+   "amount": -9.0,
+   "description": "ALDI 114 MANCHESTER",
+   "mcc": null
+  },
+  {
+   "id": "82b33599-8604-8719-26de-bfdb8825ae56",
+   "user_id": "00000000-0000-0000-0000-000000000001",
+   "posted_at": "2026-09-04T15:52:00Z",
+   "amount": -14.97,
+   "description": "ALDI 114 MANCHESTER",
+   "mcc": null
+  },
+  {
+   "id": "c8c614b2-7b84-44d1-8e31-704187ddaeb7",
+   "user_id": "00000000-0000-0000-0000-000000000001",
+   "posted_at": "2026-09-04T19:20:00Z",
+   "amount": -16.46,
+   "description": "JUST EAT.CO.UK",
+   "mcc": null
+  },
+  {
+   "id": "940a3537-e856-6431-e258-d2684806d26f",
+   "user_id": "00000000-0000-0000-0000-000000000001",
+   "posted_at": "2026-09-05T14:40:00Z",
+   "amount": -20.0,
+   "description": "SKY BET",
+   "mcc": "7995"
+  },
+  {
+   "id": "072235c2-8fcd-7f40-73c1-cd2c81f98b52",
+   "user_id": "00000000-0000-0000-0000-000000000001",
+   "posted_at": "2026-09-07T12:17:00Z",
+   "amount": -4.03,
+   "description": "TESCO STORES 2231",
+   "mcc": null
+  },
+  {
+   "id": "831d03bf-9b2b-d6c0-816b-ee06f92e2339",
+   "user_id": "00000000-0000-0000-0000-000000000001",
+   "posted_at": "2026-09-08T08:39:00Z",
+   "amount": -2.0,
+   "description": "TFGM BEE NETWORK BUS",
+   "mcc": null
+  },
+  {
+   "id": "b2fff17b-3f66-5ede-f106-37ce81fc069e",
+   "user_id": "00000000-0000-0000-0000-000000000001",
+   "posted_at": "2026-09-09T20:17:00Z",
+   "amount": -9.15,
+   "description": "SAINSBURYS S/MKT",
+   "mcc": null
+  },
+  {
+   "id": "12b80aed-6da7-9a87-3d9a-8079abd0d7fb",
+   "user_id": "00000000-0000-0000-0000-000000000001",
+   "posted_at": "2026-09-10T08:04:00Z",
+   "amount": -2.0,
+   "description": "TFGM BEE NETWORK BUS",
+   "mcc": null
+  },
+  {
+   "id": "6471fde4-1f22-9dd0-6aa8-b9e0231b3e14",
+   "user_id": "00000000-0000-0000-0000-000000000001",
+   "posted_at": "2026-09-10T17:57:00Z",
+   "amount": -15.29,
+   "description": "SAINSBURYS S/MKT",
+   "mcc": null
+  },
+  {
+   "id": "e28af604-65f4-2986-1818-9af4f3d74f82",
+   "user_id": "00000000-0000-0000-0000-000000000001",
+   "posted_at": "2026-09-11T08:47:00Z",
+   "amount": -2.0,
+   "description": "TFGM BEE NETWORK BUS",
+   "mcc": null
+  },
+  {
+   "id": "c6e50df2-e5a3-863e-1f52-5265c8b007ee",
+   "user_id": "00000000-0000-0000-0000-000000000001",
+   "posted_at": "2026-09-11T09:05:00Z",
+   "amount": 196.67,
+   "description": "SHIFTWORKS LTD PAYROLL",
+   "mcc": null
+  },
+  {
+   "id": "fe7b8ae4-6e78-36a4-b4d1-9ec12955d6f0",
+   "user_id": "00000000-0000-0000-0000-000000000001",
+   "posted_at": "2026-09-11T19:42:00Z",
+   "amount": -17.66,
+   "description": "JUST EAT.CO.UK",
+   "mcc": null
+  },
+  {
+   "id": "f7b103df-2323-1e1e-e201-552240cbacd0",
+   "user_id": "00000000-0000-0000-0000-000000000001",
+   "posted_at": "2026-09-11T20:41:00Z",
+   "amount": -11.75,
+   "description": "ALDI 114 MANCHESTER",
+   "mcc": null
+  },
+  {
+   "id": "6bd8c676-56d0-50cd-6760-136783feb17b",
+   "user_id": "00000000-0000-0000-0000-000000000001",
+   "posted_at": "2026-09-12T06:15:00Z",
+   "amount": -18.0,
+   "description": "EE LIMITED MOBILE",
+   "mcc": null
+  },
+  {
+   "id": "756b7289-8dd6-3cb9-5685-d62404fcd555",
+   "user_id": "00000000-0000-0000-0000-000000000001",
+   "posted_at": "2026-09-12T14:20:00Z",
+   "amount": -4.65,
+   "description": "CO-OP GROUP 0412",
+   "mcc": null
+  },
+  {
+   "id": "6564d134-1097-0046-538a-e1c130312932",
+   "user_id": "00000000-0000-0000-0000-000000000001",
+   "posted_at": "2026-09-12T14:40:00Z",
+   "amount": -15.0,
+   "description": "SKY BET",
+   "mcc": "7995"
+  },
+  {
+   "id": "83239ef5-4ba2-e161-9fb9-af5084768b8c",
+   "user_id": "00000000-0000-0000-0000-000000000001",
+   "posted_at": "2026-09-12T19:01:00Z",
+   "amount": -14.07,
+   "description": "JUST EAT.CO.UK",
+   "mcc": null
+  },
+  {
+   "id": "453bf491-2e7a-26e9-c76c-603fe7e8f9f6",
+   "user_id": "00000000-0000-0000-0000-000000000001",
+   "posted_at": "2026-09-15T10:05:00Z",
+   "amount": -6.82,
+   "description": "TESCO STORES 2231",
+   "mcc": null
+  },
+  {
+   "id": "83c8cb28-eb4e-d2e3-895e-8b6b263cfa5e",
+   "user_id": "00000000-0000-0000-0000-000000000001",
+   "posted_at": "2026-09-16T19:52:00Z",
+   "amount": -15.33,
+   "description": "SAINSBURYS S/MKT",
+   "mcc": null
+  },
+  {
+   "id": "44d82a53-1289-bafa-e531-69606ce193c2",
+   "user_id": "00000000-0000-0000-0000-000000000001",
+   "posted_at": "2026-09-17T10:17:00Z",
+   "amount": -4.22,
+   "description": "ALDI 114 MANCHESTER",
+   "mcc": null
+  },
+  {
+   "id": "fe8ad4a1-56d2-a68c-02f4-b342742a8063",
+   "user_id": "00000000-0000-0000-0000-000000000001",
+   "posted_at": "2026-09-18T08:07:00Z",
+   "amount": -2.0,
+   "description": "TFGM BEE NETWORK BUS",
+   "mcc": null
+  },
+  {
+   "id": "38efbaeb-db31-ccd2-9bb1-83e11570266b",
+   "user_id": "00000000-0000-0000-0000-000000000001",
+   "posted_at": "2026-09-18T09:05:00Z",
+   "amount": 165.8,
+   "description": "SHIFTWORKS LTD PAYROLL",
+   "mcc": null
+  },
+  {
+   "id": "86e3e726-0b0f-873b-2114-e0689f27f52c",
+   "user_id": "00000000-0000-0000-0000-000000000001",
+   "posted_at": "2026-09-18T19:59:00Z",
+   "amount": -18.32,
+   "description": "JUST EAT.CO.UK",
+   "mcc": null
+  },
+  {
+   "id": "a0f096da-4fde-bbec-eea7-bb6433a71568",
+   "user_id": "00000000-0000-0000-0000-000000000001",
+   "posted_at": "2026-09-19T10:10:00Z",
+   "amount": -6.77,
+   "description": "ALDI 114 MANCHESTER",
+   "mcc": null
+  },
+  {
+   "id": "81e004fb-3ef6-8756-fe11-1ebc406c6132",
+   "user_id": "00000000-0000-0000-0000-000000000001",
+   "posted_at": "2026-09-19T14:40:00Z",
+   "amount": -10.0,
+   "description": "SKY BET",
+   "mcc": "7995"
+  },
+  {
+   "id": "2d8ad8c0-ac12-7e93-8005-ce74721888ff",
+   "user_id": "00000000-0000-0000-0000-000000000001",
+   "posted_at": "2026-09-19T19:48:00Z",
+   "amount": -12.65,
+   "description": "JUST EAT.CO.UK",
+   "mcc": null
+  },
+  {
+   "id": "bbab27f6-04b8-157d-03ed-b92009758340",
+   "user_id": "00000000-0000-0000-0000-000000000001",
+   "posted_at": "2026-09-20T14:51:00Z",
+   "amount": -3.73,
+   "description": "CO-OP GROUP 0412",
+   "mcc": null
+  },
+  {
+   "id": "e1c60aa3-d510-bb04-32d9-0dcd57bb7d97",
+   "user_id": "00000000-0000-0000-0000-000000000001",
+   "posted_at": "2026-09-21T08:14:00Z",
+   "amount": -2.0,
+   "description": "TFGM BEE NETWORK BUS",
+   "mcc": null
+  },
+  {
+   "id": "a887ae22-1b35-411b-7272-3b9cef44c0d5",
+   "user_id": "00000000-0000-0000-0000-000000000001",
+   "posted_at": "2026-09-21T17:12:00Z",
+   "amount": -9.93,
+   "description": "ALDI 114 MANCHESTER",
+   "mcc": null
+  },
+  {
+   "id": "b00fd7bb-4eca-dea2-81b6-2bb5f86664ae",
+   "user_id": "00000000-0000-0000-0000-000000000001",
+   "posted_at": "2026-09-21T19:27:00Z",
+   "amount": -11.71,
+   "description": "SAINSBURYS S/MKT",
+   "mcc": null
+  },
+  {
+   "id": "bdaaea00-a01d-616f-121a-e3e603a63966",
+   "user_id": "00000000-0000-0000-0000-000000000001",
+   "posted_at": "2026-09-22T15:22:00Z",
+   "amount": -15.77,
+   "description": "ALDI 114 MANCHESTER",
+   "mcc": null
+  },
+  {
+   "id": "759eb559-0b94-af3a-4b05-e1aeb153d69c",
+   "user_id": "00000000-0000-0000-0000-000000000001",
+   "posted_at": "2026-09-23T08:15:00Z",
+   "amount": -2.0,
+   "description": "TFGM BEE NETWORK BUS",
+   "mcc": null
+  },
+  {
+   "id": "f88ede10-aba8-b9b3-8185-797cdedb9109",
+   "user_id": "00000000-0000-0000-0000-000000000001",
+   "posted_at": "2026-09-23T11:03:00Z",
+   "amount": -4.56,
+   "description": "SAINSBURYS S/MKT",
+   "mcc": null
+  },
+  {
+   "id": "f8fdd208-5434-8156-f637-a4685d385e06",
+   "user_id": "00000000-0000-0000-0000-000000000001",
+   "posted_at": "2026-09-24T11:17:00Z",
+   "amount": -9.07,
+   "description": "CO-OP GROUP 0412",
+   "mcc": null
+  },
+  {
+   "id": "43a08f06-1742-0e94-0144-702bc6b789ef",
+   "user_id": "00000000-0000-0000-0000-000000000001",
+   "posted_at": "2026-09-25T08:32:00Z",
+   "amount": -2.0,
+   "description": "TFGM BEE NETWORK BUS",
+   "mcc": null
+  },
+  {
+   "id": "37c60e98-4f3e-885e-e1e4-37b7f735efe6",
+   "user_id": "00000000-0000-0000-0000-000000000001",
+   "posted_at": "2026-09-25T09:05:00Z",
+   "amount": 215.24,
+   "description": "SHIFTWORKS LTD PAYROLL",
+   "mcc": null
+  },
+  {
+   "id": "a7f0c99e-80b5-244a-4767-e1fa79823eb2",
+   "user_id": "00000000-0000-0000-0000-000000000001",
+   "posted_at": "2026-09-25T11:00:00Z",
+   "amount": -7.69,
+   "description": "TESCO STORES 2231",
+   "mcc": null
+  },
+  {
+   "id": "cef61d03-a64e-d996-3b3b-c81386bc2b99",
+   "user_id": "00000000-0000-0000-0000-000000000001",
+   "posted_at": "2026-09-26T14:40:00Z",
+   "amount": -15.0,
+   "description": "SKY BET",
+   "mcc": "7995"
+  },
+  {
+   "id": "3b996870-a132-0b9d-4de2-f8ad4cb59aa7",
+   "user_id": "00000000-0000-0000-0000-000000000001",
+   "posted_at": "2026-09-26T15:37:00Z",
+   "amount": -4.02,
+   "description": "TESCO STORES 2231",
+   "mcc": null
+  },
+  {
+   "id": "b74b589b-e48e-9e02-a854-c83427be9ab1",
+   "user_id": "00000000-0000-0000-0000-000000000001",
+   "posted_at": "2026-09-26T19:33:00Z",
+   "amount": -17.83,
+   "description": "JUST EAT.CO.UK",
+   "mcc": null
+  },
+  {
+   "id": "9e6397d4-b962-45d3-48bf-cbcf26433798",
+   "user_id": "00000000-0000-0000-0000-000000000001",
+   "posted_at": "2026-09-27T15:48:00Z",
+   "amount": -7.58,
+   "description": "SAINSBURYS S/MKT",
+   "mcc": null
+  },
+  {
+   "id": "816b2332-cfed-943b-b378-3a7cbbddbb9b",
+   "user_id": "00000000-0000-0000-0000-000000000001",
+   "posted_at": "2026-09-27T19:09:00Z",
+   "amount": -4.05,
+   "description": "SAINSBURYS S/MKT",
+   "mcc": null
+  },
+  {
+   "id": "c0bbe6ed-8614-f504-e8ee-65a123a9a9da",
+   "user_id": "00000000-0000-0000-0000-000000000001",
+   "posted_at": "2026-09-28T07:30:00Z",
+   "amount": -520.0,
+   "description": "OAKWOOD LETTINGS RENT",
+   "mcc": null
+  },
+  {
+   "id": "cc4793d7-9585-0e21-afbc-9ca9d38f8c45",
+   "user_id": "00000000-0000-0000-0000-000000000001",
+   "posted_at": "2026-09-28T18:53:00Z",
+   "amount": -13.66,
+   "description": "TESCO STORES 2231",
+   "mcc": null
+  },
+  {
+   "id": "22126540-0ab7-7988-07fa-22f715c891ff",
+   "user_id": "00000000-0000-0000-0000-000000000001",
+   "posted_at": "2026-09-28T20:43:00Z",
+   "amount": -15.45,
+   "description": "ALDI 114 MANCHESTER",
+   "mcc": null
+  },
+  {
+   "id": "04d2be09-a0b5-5864-0cff-f0548efba442",
+   "user_id": "00000000-0000-0000-0000-000000000001",
+   "posted_at": "2026-09-29T08:28:00Z",
+   "amount": -2.0,
+   "description": "TFGM BEE NETWORK BUS",
+   "mcc": null
+  },
+  {
+   "id": "408fc146-794e-c926-bc9e-28eabee80626",
+   "user_id": "00000000-0000-0000-0000-000000000001",
+   "posted_at": "2026-09-30T17:57:00Z",
+   "amount": -10.19,
+   "description": "TESCO STORES 2231",
+   "mcc": null
+  },
+  {
+   "id": "bf8e51aa-11f2-d44d-cc35-e83474fa9412",
+   "user_id": "00000000-0000-0000-0000-000000000001",
+   "posted_at": "2026-09-30T19:15:00Z",
+   "amount": -9.62,
+   "description": "TESCO STORES 2231",
+   "mcc": null
+  },
+  {
+   "id": "bab5b373-3c1a-e917-43fb-9fbcd89c36b2",
+   "user_id": "00000000-0000-0000-0000-000000000001",
+   "posted_at": "2026-10-01T06:20:00Z",
+   "amount": -21.99,
+   "description": "PUREGYM MANCHESTER",
+   "mcc": null
+  },
+  {
+   "id": "9df2025f-0bf7-a4bd-c458-272f498dbfa8",
+   "user_id": "00000000-0000-0000-0000-000000000001",
+   "posted_at": "2026-10-01T08:43:00Z",
+   "amount": -2.0,
+   "description": "TFGM BEE NETWORK BUS",
+   "mcc": null
+  },
+  {
+   "id": "13a5397f-61ef-7bd1-d874-bc797e736d5f",
+   "user_id": "00000000-0000-0000-0000-000000000001",
+   "posted_at": "2026-10-01T12:47:00Z",
+   "amount": -11.62,
+   "description": "SAINSBURYS S/MKT",
+   "mcc": null
+  },
+  {
+   "id": "a6caf4a3-4102-3aed-54ef-125a25bda659",
+   "user_id": "00000000-0000-0000-0000-000000000001",
+   "posted_at": "2026-10-02T09:05:00Z",
+   "amount": 196.08,
+   "description": "SHIFTWORKS LTD PAYROLL",
+   "mcc": null
+  },
+  {
+   "id": "f8f659ac-44ce-4ab3-7c5d-42dc0f877ae3",
+   "user_id": "00000000-0000-0000-0000-000000000001",
+   "posted_at": "2026-10-02T18:36:00Z",
+   "amount": -5.17,
+   "description": "SAINSBURYS S/MKT",
+   "mcc": null
+  },
+  {
+   "id": "b578909c-4a75-91f2-7d57-5d17acfb2d5e",
+   "user_id": "00000000-0000-0000-0000-000000000001",
+   "posted_at": "2026-10-03T06:10:00Z",
+   "amount": -5.99,
+   "description": "SPOTIFY UK",
+   "mcc": null
+  },
+  {
+   "id": "d1e4d0a3-1393-2904-757f-1cba4a227f39",
+   "user_id": "00000000-0000-0000-0000-000000000001",
+   "posted_at": "2026-10-03T13:05:00Z",
+   "amount": -15.2,
+   "description": "TESCO STORES 2231",
+   "mcc": null
+  },
+  {
+   "id": "33020ccd-8c90-473e-e4c7-17fdfe48ef63",
+   "user_id": "00000000-0000-0000-0000-000000000001",
+   "posted_at": "2026-10-03T13:29:00Z",
+   "amount": -9.32,
+   "description": "TESCO STORES 2231",
+   "mcc": null
+  },
+  {
+   "id": "fdaf4513-76c3-2dcd-a740-68b219bd2640",
+   "user_id": "00000000-0000-0000-0000-000000000001",
+   "posted_at": "2026-10-03T14:40:00Z",
+   "amount": -20.0,
+   "description": "SKY BET",
+   "mcc": "7995"
+  },
+  {
+   "id": "e200d218-798a-0d59-0126-64f61a327537",
+   "user_id": "00000000-0000-0000-0000-000000000001",
+   "posted_at": "2026-10-03T15:02:00Z",
+   "amount": -20.0,
+   "description": "COINBASE UK*TOPUP",
+   "mcc": null
+  },
+  {
+   "id": "f21201e4-eaa3-556c-35b7-e44863087e52",
+   "user_id": "00000000-0000-0000-0000-000000000001",
+   "posted_at": "2026-10-03T19:28:00Z",
+   "amount": -18.95,
+   "description": "JUST EAT.CO.UK",
+   "mcc": null
+  },
+  {
+   "id": "9a762d54-21f2-67e2-5c0b-b40ff3e6ca73",
+   "user_id": "00000000-0000-0000-0000-000000000001",
+   "posted_at": "2026-10-04T10:37:00Z",
+   "amount": -4.63,
+   "description": "CO-OP GROUP 0412",
+   "mcc": null
+  },
+  {
+   "id": "60487e15-580d-c5ab-6a8a-d9cb24056360",
+   "user_id": "00000000-0000-0000-0000-000000000001",
+   "posted_at": "2026-10-05T08:46:00Z",
+   "amount": -2.0,
+   "description": "TFGM BEE NETWORK BUS",
+   "mcc": null
+  },
+  {
+   "id": "e04b0dce-e5d0-0a4d-7f75-95b53b3bf4bf",
+   "user_id": "00000000-0000-0000-0000-000000000001",
+   "posted_at": "2026-10-05T13:56:00Z",
+   "amount": -4.91,
+   "description": "CO-OP GROUP 0412",
+   "mcc": null
+  },
+  {
+   "id": "736506ec-ae7c-8f09-7ddf-cbc9f3308ce5",
+   "user_id": "00000000-0000-0000-0000-000000000001",
+   "posted_at": "2026-10-05T16:25:00Z",
+   "amount": -3.81,
+   "description": "TESCO STORES 2231",
+   "mcc": null
+  },
+  {
+   "id": "bd6a996d-e6cd-10f1-0300-3005b688b661",
+   "user_id": "00000000-0000-0000-0000-000000000001",
+   "posted_at": "2026-10-06T08:12:00Z",
+   "amount": -2.0,
+   "description": "TFGM BEE NETWORK BUS",
+   "mcc": null
+  },
+  {
+   "id": "65f456aa-d6cf-f718-5699-08f6c0301b21",
+   "user_id": "00000000-0000-0000-0000-000000000001",
+   "posted_at": "2026-10-06T10:53:00Z",
+   "amount": -7.64,
+   "description": "CO-OP GROUP 0412",
+   "mcc": null
+  },
+  {
+   "id": "0c5b4c59-dab0-7929-4670-9312c172b298",
+   "user_id": "00000000-0000-0000-0000-000000000001",
+   "posted_at": "2026-10-07T08:27:00Z",
+   "amount": -2.0,
+   "description": "TFGM BEE NETWORK BUS",
+   "mcc": null
+  },
+  {
+   "id": "138efef9-96d4-480f-deb6-7ae7ffb0dd9e",
+   "user_id": "00000000-0000-0000-0000-000000000001",
+   "posted_at": "2026-10-07T13:23:00Z",
+   "amount": -4.31,
+   "description": "SAINSBURYS S/MKT",
+   "mcc": null
+  },
+  {
+   "id": "3fd3be98-261f-40df-ef82-d1a3a28cf7b1",
+   "user_id": "00000000-0000-0000-0000-000000000001",
+   "posted_at": "2026-10-08T10:03:00Z",
+   "amount": -13.93,
+   "description": "CO-OP GROUP 0412",
+   "mcc": null
+  },
+  {
+   "id": "c8ff1c38-5f93-d180-c5ef-5cfb3099f271",
+   "user_id": "00000000-0000-0000-0000-000000000001",
+   "posted_at": "2026-10-09T09:05:00Z",
+   "amount": 228.51,
+   "description": "SHIFTWORKS LTD PAYROLL",
+   "mcc": null
+  },
+  {
+   "id": "8ddcf83c-f0d1-ab56-e02f-9a72e9d625c9",
+   "user_id": "00000000-0000-0000-0000-000000000001",
+   "posted_at": "2026-10-09T09:51:00Z",
+   "amount": -13.02,
+   "description": "SAINSBURYS S/MKT",
+   "mcc": null
+  },
+  {
+   "id": "5fb65b55-ea14-843a-72c3-9a28d72eb3a1",
+   "user_id": "00000000-0000-0000-0000-000000000001",
+   "posted_at": "2026-10-10T21:14:00Z",
+   "amount": -20.0,
+   "description": "COINBASE UK*TOPUP",
+   "mcc": null
+  },
+  {
+   "id": "ed4142ba-e972-9f3f-0c89-c0017c4ea603",
+   "user_id": "00000000-0000-0000-0000-000000000001",
+   "posted_at": "2026-10-11T16:39:00Z",
+   "amount": -12.91,
+   "description": "CO-OP GROUP 0412",
+   "mcc": null
+  },
+  {
+   "id": "1e84fb36-3b9e-dacb-4b2e-7245e07b59d8",
+   "user_id": "00000000-0000-0000-0000-000000000001",
+   "posted_at": "2026-10-11T23:02:00Z",
+   "amount": -20.0,
+   "description": "COINBASE UK*TOPUP",
+   "mcc": null
+  },
+  {
+   "id": "78e10e70-2bb7-1c68-2097-798c8cd3e418",
+   "user_id": "00000000-0000-0000-0000-000000000001",
+   "posted_at": "2026-10-12T06:15:00Z",
+   "amount": -18.0,
+   "description": "EE LIMITED MOBILE",
+   "mcc": null
+  },
+  {
+   "id": "a4a915d0-2ad6-4ce9-1ea7-722864f54969",
+   "user_id": "00000000-0000-0000-0000-000000000001",
+   "posted_at": "2026-10-12T08:42:00Z",
+   "amount": -2.0,
+   "description": "TFGM BEE NETWORK BUS",
+   "mcc": null
+  },
+  {
+   "id": "4d039b72-3d19-26ac-a7ef-4f5d67fd5499",
+   "user_id": "00000000-0000-0000-0000-000000000001",
+   "posted_at": "2026-10-12T14:18:00Z",
+   "amount": -7.22,
+   "description": "CO-OP GROUP 0412",
+   "mcc": null
+  },
+  {
+   "id": "8c3ba859-23bc-9152-6d6b-987a73309b95",
+   "user_id": "00000000-0000-0000-0000-000000000001",
+   "posted_at": "2026-10-13T08:48:00Z",
+   "amount": -2.0,
+   "description": "TFGM BEE NETWORK BUS",
+   "mcc": null
+  },
+  {
+   "id": "e8009d90-73f6-e53d-3853-933d8ce621ef",
+   "user_id": "00000000-0000-0000-0000-000000000001",
+   "posted_at": "2026-10-13T10:13:00Z",
+   "amount": -9.76,
+   "description": "SAINSBURYS S/MKT",
+   "mcc": null
+  },
+  {
+   "id": "4223b8aa-5e49-422a-3d37-664251bcd77a",
+   "user_id": "00000000-0000-0000-0000-000000000001",
+   "posted_at": "2026-10-14T12:05:00Z",
+   "amount": -5.68,
+   "description": "TESCO STORES 2231",
+   "mcc": null
+  },
+  {
+   "id": "470b4fad-7f86-7d5f-0fe3-21ecc08a58d7",
+   "user_id": "00000000-0000-0000-0000-000000000001",
+   "posted_at": "2026-10-15T08:21:00Z",
+   "amount": -2.0,
+   "description": "TFGM BEE NETWORK BUS",
+   "mcc": null
+  },
+  {
+   "id": "35c2e229-862f-e231-beef-67fb69f44612",
+   "user_id": "00000000-0000-0000-0000-000000000001",
+   "posted_at": "2026-10-15T09:47:00Z",
+   "amount": -14.38,
+   "description": "SAINSBURYS S/MKT",
+   "mcc": null
+  },
+  {
+   "id": "911f52dc-4786-8e4a-4b35-4e934b3e90b7",
+   "user_id": "00000000-0000-0000-0000-000000000001",
+   "posted_at": "2026-10-15T12:30:00Z",
+   "amount": -40.0,
+   "description": "WISE INTL TRANSFER",
+   "mcc": null
+  },
+  {
+   "id": "ca51e152-a12f-3a94-877b-55cb80de8b3e",
+   "user_id": "00000000-0000-0000-0000-000000000001",
+   "posted_at": "2026-10-16T09:05:00Z",
+   "amount": 215.13,
+   "description": "SHIFTWORKS LTD PAYROLL",
+   "mcc": null
+  },
+  {
+   "id": "6e8cd94e-7223-c68a-a552-9b0566567bc4",
+   "user_id": "00000000-0000-0000-0000-000000000001",
+   "posted_at": "2026-10-16T10:17:00Z",
+   "amount": -14.71,
+   "description": "SAINSBURYS S/MKT",
+   "mcc": null
+  },
+  {
+   "id": "f7e147fd-7928-1c19-cde3-47abe54c5de6",
+   "user_id": "00000000-0000-0000-0000-000000000001",
+   "posted_at": "2026-10-17T19:27:00Z",
+   "amount": -16.68,
+   "description": "JUST EAT.CO.UK",
+   "mcc": null
+  },
+  {
+   "id": "d3f2e52d-f914-3ef5-99b9-ede73087de35",
+   "user_id": "00000000-0000-0000-0000-000000000001",
+   "posted_at": "2026-10-17T20:03:00Z",
+   "amount": -30.0,
+   "description": "COINBASE UK*TOPUP",
+   "mcc": null
+  },
+  {
+   "id": "5f4aebeb-133a-d73d-ee1f-dde031b4932c",
+   "user_id": "00000000-0000-0000-0000-000000000001",
+   "posted_at": "2026-10-18T00:37:00Z",
+   "amount": -25.0,
+   "description": "SKRILL*PAY 8812",
+   "mcc": null
+  },
+  {
+   "id": "b374fab6-b8c3-a4d2-d34d-1c0df1058667",
+   "user_id": "00000000-0000-0000-0000-000000000001",
+   "posted_at": "2026-10-18T10:14:00Z",
+   "amount": -5.43,
+   "description": "TESCO STORES 2231",
+   "mcc": null
+  },
+  {
+   "id": "c879b663-3f9b-6bb2-72ee-6a2ef8e4cb5c",
+   "user_id": "00000000-0000-0000-0000-000000000001",
+   "posted_at": "2026-10-18T16:00:00Z",
+   "amount": -4.41,
+   "description": "SAINSBURYS S/MKT",
+   "mcc": null
+  },
+  {
+   "id": "91c3098c-3b8a-27ba-202a-b6fac844b8fd",
+   "user_id": "00000000-0000-0000-0000-000000000001",
+   "posted_at": "2026-10-19T10:35:00Z",
+   "amount": -13.21,
+   "description": "TESCO STORES 2231",
+   "mcc": null
+  },
+  {
+   "id": "635956be-3113-5de9-9538-57d7f18bde0e",
+   "user_id": "00000000-0000-0000-0000-000000000001",
+   "posted_at": "2026-10-20T08:33:00Z",
+   "amount": -2.0,
+   "description": "TFGM BEE NETWORK BUS",
+   "mcc": null
+  },
+  {
+   "id": "197536b1-1cb4-ba55-c38b-48a2b2d643a2",
+   "user_id": "00000000-0000-0000-0000-000000000001",
+   "posted_at": "2026-10-20T11:40:00Z",
+   "amount": -6.65,
+   "description": "SAINSBURYS S/MKT",
+   "mcc": null
+  },
+  {
+   "id": "3e0b25cd-e23f-03cc-d6e3-a71ea502e8a8",
+   "user_id": "00000000-0000-0000-0000-000000000001",
+   "posted_at": "2026-10-21T08:20:00Z",
+   "amount": -2.0,
+   "description": "TFGM BEE NETWORK BUS",
+   "mcc": null
+  },
+  {
+   "id": "75efd233-ff12-5eb4-4d30-7fe489980c50",
+   "user_id": "00000000-0000-0000-0000-000000000001",
+   "posted_at": "2026-10-21T12:50:00Z",
+   "amount": -11.01,
+   "description": "TESCO STORES 2231",
+   "mcc": null
+  },
+  {
+   "id": "aca99fd0-e285-6ec6-7f91-428631b1891a",
+   "user_id": "00000000-0000-0000-0000-000000000001",
+   "posted_at": "2026-10-22T08:01:00Z",
+   "amount": -2.0,
+   "description": "TFGM BEE NETWORK BUS",
+   "mcc": null
+  },
+  {
+   "id": "a64f7613-b464-2ea4-696c-63d6f5ead065",
+   "user_id": "00000000-0000-0000-0000-000000000001",
+   "posted_at": "2026-10-22T17:15:00Z",
+   "amount": -10.34,
+   "description": "TESCO STORES 2231",
+   "mcc": null
+  },
+  {
+   "id": "d85bbb6b-bd37-929d-4ac7-ccc3cc0c6682",
+   "user_id": "00000000-0000-0000-0000-000000000001",
+   "posted_at": "2026-10-23T08:00:00Z",
+   "amount": -2.0,
+   "description": "TFGM BEE NETWORK BUS",
+   "mcc": null
+  },
+  {
+   "id": "ecd7570b-6ca0-6496-aad7-c7c03a53c176",
+   "user_id": "00000000-0000-0000-0000-000000000001",
+   "posted_at": "2026-10-23T09:05:00Z",
+   "amount": 228.08,
+   "description": "SHIFTWORKS LTD PAYROLL",
+   "mcc": null
+  },
+  {
+   "id": "aebcb0aa-5cc0-ff06-6ba9-9d01b7e49f36",
+   "user_id": "00000000-0000-0000-0000-000000000001",
+   "posted_at": "2026-10-23T12:31:00Z",
+   "amount": -3.93,
+   "description": "CO-OP GROUP 0412",
+   "mcc": null
+  },
+  {
+   "id": "d1ebd086-c40f-3609-4fcc-9a5c334e51af",
+   "user_id": "00000000-0000-0000-0000-000000000001",
+   "posted_at": "2026-10-23T19:13:00Z",
+   "amount": -14.97,
+   "description": "JUST EAT.CO.UK",
+   "mcc": null
+  },
+  {
+   "id": "7eea6fe1-9fa4-0dd6-f3b1-7af01be7f3cf",
+   "user_id": "00000000-0000-0000-0000-000000000001",
+   "posted_at": "2026-10-24T12:29:00Z",
+   "amount": -6.27,
+   "description": "CO-OP GROUP 0412",
+   "mcc": null
+  },
+  {
+   "id": "9a60f919-72f9-2026-2d81-9d38ddba8547",
+   "user_id": "00000000-0000-0000-0000-000000000001",
+   "posted_at": "2026-10-24T22:32:00Z",
+   "amount": -30.0,
+   "description": "COINBASE UK*TOPUP",
+   "mcc": null
+  },
+  {
+   "id": "f2198825-aa2d-6c38-c71c-588cc6664843",
+   "user_id": "00000000-0000-0000-0000-000000000001",
+   "posted_at": "2026-10-25T01:16:00Z",
+   "amount": -40.0,
+   "description": "COINBASE UK*TOPUP",
+   "mcc": null
+  },
+  {
+   "id": "ec032e6b-2579-5c18-9844-f476f2e2054d",
+   "user_id": "00000000-0000-0000-0000-000000000001",
+   "posted_at": "2026-10-25T16:26:00Z",
+   "amount": -14.88,
+   "description": "TESCO STORES 2231",
+   "mcc": null
+  },
+  {
+   "id": "506f68ac-e232-8994-b647-e8a8e5ee4c91",
+   "user_id": "00000000-0000-0000-0000-000000000001",
+   "posted_at": "2026-10-26T08:28:00Z",
+   "amount": -2.0,
+   "description": "TFGM BEE NETWORK BUS",
+   "mcc": null
+  },
+  {
+   "id": "0f650638-b5b9-4af3-0d45-6be06a56aac3",
+   "user_id": "00000000-0000-0000-0000-000000000001",
+   "posted_at": "2026-10-26T09:13:00Z",
+   "amount": -3.8,
+   "description": "ALDI 114 MANCHESTER",
+   "mcc": null
+  },
+  {
+   "id": "30d0a2b8-5449-40e1-2a66-f913ee7d0ae2",
+   "user_id": "00000000-0000-0000-0000-000000000001",
+   "posted_at": "2026-10-28T07:30:00Z",
+   "amount": -520.0,
+   "description": "OAKWOOD LETTINGS RENT",
+   "mcc": null
+  },
+  {
+   "id": "2b54af77-7143-6e1d-54ea-2061fc27d683",
+   "user_id": "00000000-0000-0000-0000-000000000001",
+   "posted_at": "2026-10-28T08:23:00Z",
+   "amount": -2.0,
+   "description": "TFGM BEE NETWORK BUS",
+   "mcc": null
+  },
+  {
+   "id": "b9b253e3-aa18-1345-4fd3-e758082a2f4d",
+   "user_id": "00000000-0000-0000-0000-000000000001",
+   "posted_at": "2026-10-28T19:59:00Z",
+   "amount": -10.06,
+   "description": "SAINSBURYS S/MKT",
+   "mcc": null
+  },
+  {
+   "id": "f49c9eba-6b91-1f97-59f9-bb7914ace1cb",
+   "user_id": "00000000-0000-0000-0000-000000000001",
+   "posted_at": "2026-10-29T08:17:00Z",
+   "amount": -2.0,
+   "description": "TFGM BEE NETWORK BUS",
+   "mcc": null
+  },
+  {
+   "id": "797b1538-e5a1-5b79-bcc0-fd985d3f69ce",
+   "user_id": "00000000-0000-0000-0000-000000000001",
+   "posted_at": "2026-10-30T08:20:00Z",
+   "amount": -2.0,
+   "description": "TFGM BEE NETWORK BUS",
+   "mcc": null
+  },
+  {
+   "id": "5b4c0d73-6150-2dee-3518-5376c2410ad1",
+   "user_id": "00000000-0000-0000-0000-000000000001",
+   "posted_at": "2026-10-30T09:05:00Z",
+   "amount": 165.56,
+   "description": "SHIFTWORKS LTD PAYROLL",
+   "mcc": null
+  },
+  {
+   "id": "b5af4c8a-989d-181c-a330-66bd1b1466f6",
+   "user_id": "00000000-0000-0000-0000-000000000001",
+   "posted_at": "2026-10-30T10:00:00Z",
+   "amount": -30.0,
+   "description": "COINBASE UK*TOPUP",
+   "mcc": null
+  },
+  {
+   "id": "eb64c5c4-8aa1-a59c-5f6a-35d9321a6ec1",
+   "user_id": "00000000-0000-0000-0000-000000000001",
+   "posted_at": "2026-10-30T15:05:00Z",
+   "amount": -4.12,
+   "description": "SAINSBURYS S/MKT",
+   "mcc": null
+  },
+  {
+   "id": "0a68013d-679f-2d9e-c444-5aaea01ac23a",
+   "user_id": "00000000-0000-0000-0000-000000000001",
+   "posted_at": "2026-10-30T19:26:00Z",
+   "amount": -12.98,
+   "description": "JUST EAT.CO.UK",
+   "mcc": null
+  },
+  {
+   "id": "10170d2b-bf4e-302c-31e7-aed141cbcc3a",
+   "user_id": "00000000-0000-0000-0000-000000000001",
+   "posted_at": "2026-10-31T09:29:00Z",
+   "amount": -4.28,
+   "description": "TESCO STORES 2231",
+   "mcc": null
+  },
+  {
+   "id": "5e63af16-0996-9e7c-37b7-9c485985ea3f",
+   "user_id": "00000000-0000-0000-0000-000000000001",
+   "posted_at": "2026-10-31T23:39:00Z",
+   "amount": -40.0,
+   "description": "COINBASE UK*TOPUP",
+   "mcc": null
+  },
+  {
+   "id": "fff7ba0d-3437-ccaa-0b4e-7f7c2430ca6d",
+   "user_id": "00000000-0000-0000-0000-000000000001",
+   "posted_at": "2026-11-01T01:21:00Z",
+   "amount": -50.0,
+   "description": "COINBASE UK*TOPUP",
+   "mcc": null
+  },
+  {
+   "id": "a6d21040-bb73-52c1-9973-cf5c09c9d592",
+   "user_id": "00000000-0000-0000-0000-000000000001",
+   "posted_at": "2026-11-01T02:16:00Z",
+   "amount": -25.0,
+   "description": "SKRILL*PAY 8812",
+   "mcc": null
+  },
+  {
+   "id": "55c0a74d-45b6-69f7-5ceb-e21356cd42d2",
+   "user_id": "00000000-0000-0000-0000-000000000001",
+   "posted_at": "2026-11-01T06:20:00Z",
+   "amount": -21.99,
+   "description": "PUREGYM MANCHESTER",
+   "mcc": null
+  },
+  {
+   "id": "00f72d3c-4c22-cab7-468f-b596ec9a360c",
+   "user_id": "00000000-0000-0000-0000-000000000001",
+   "posted_at": "2026-11-01T09:16:00Z",
+   "amount": -12.83,
+   "description": "CO-OP GROUP 0412",
+   "mcc": null
+  },
+  {
+   "id": "1b757b20-3bde-a8c3-d375-eff10635afef",
+   "user_id": "00000000-0000-0000-0000-000000000001",
+   "posted_at": "2026-11-01T20:48:00Z",
+   "amount": -10.94,
+   "description": "TESCO STORES 2231",
+   "mcc": null
+  },
+  {
+   "id": "6e106c0e-e9de-0479-4044-9aa0ca304218",
+   "user_id": "00000000-0000-0000-0000-000000000001",
+   "posted_at": "2026-11-02T20:29:00Z",
+   "amount": -15.42,
+   "description": "SAINSBURYS S/MKT",
+   "mcc": null
+  },
+  {
+   "id": "2ed51b12-7f1d-490e-ed97-ec7621f91a99",
+   "user_id": "00000000-0000-0000-0000-000000000001",
+   "posted_at": "2026-11-03T06:10:00Z",
+   "amount": -5.99,
+   "description": "SPOTIFY UK",
+   "mcc": null
+  },
+  {
+   "id": "32830689-830a-e19e-143a-51809880e88b",
+   "user_id": "00000000-0000-0000-0000-000000000001",
+   "posted_at": "2026-11-04T08:50:00Z",
+   "amount": -2.0,
+   "description": "TFGM BEE NETWORK BUS",
+   "mcc": null
+  },
+  {
+   "id": "75f5c1a0-51cd-f2f9-dc7a-615d53eab031",
+   "user_id": "00000000-0000-0000-0000-000000000001",
+   "posted_at": "2026-11-04T20:49:00Z",
+   "amount": -5.39,
+   "description": "ALDI 114 MANCHESTER",
+   "mcc": null
+  },
+  {
+   "id": "1279688c-fce2-05cd-1aef-ca62e22b64a6",
+   "user_id": "00000000-0000-0000-0000-000000000001",
+   "posted_at": "2026-11-05T08:27:00Z",
+   "amount": -2.0,
+   "description": "TFGM BEE NETWORK BUS",
+   "mcc": null
+  },
+  {
+   "id": "5364e64d-8b6b-feae-8d76-d7a17b50079e",
+   "user_id": "00000000-0000-0000-0000-000000000001",
+   "posted_at": "2026-11-05T11:15:00Z",
+   "amount": -8.6,
+   "description": "TESCO STORES 2231",
+   "mcc": null
+  },
+  {
+   "id": "7f9c1321-6bca-9b3f-18af-266c3555d6ae",
+   "user_id": "00000000-0000-0000-0000-000000000001",
+   "posted_at": "2026-11-06T09:05:00Z",
+   "amount": 204.62,
+   "description": "SHIFTWORKS LTD PAYROLL",
+   "mcc": null
+  },
+  {
+   "id": "53c69b0a-d19f-0be9-02e9-c9fbd0930b64",
+   "user_id": "00000000-0000-0000-0000-000000000001",
+   "posted_at": "2026-11-06T11:13:00Z",
+   "amount": -40.0,
+   "description": "COINBASE UK*TOPUP",
+   "mcc": null
+  },
+  {
+   "id": "3c2496eb-ac92-61f1-e429-c87c9ecc7b5f",
+   "user_id": "00000000-0000-0000-0000-000000000001",
+   "posted_at": "2026-11-06T11:14:00Z",
+   "amount": -5.16,
+   "description": "SAINSBURYS S/MKT",
+   "mcc": null
+  },
+  {
+   "id": "9efac292-2f65-ab4e-5f2e-e40dada65cc4",
+   "user_id": "00000000-0000-0000-0000-000000000001",
+   "posted_at": "2026-11-07T00:26:00Z",
+   "amount": -60.0,
+   "description": "COINBASE UK*TOPUP",
+   "mcc": null
+  }
+ ]
+}
