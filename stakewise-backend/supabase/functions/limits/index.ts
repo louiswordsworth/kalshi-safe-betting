@@ -1,7 +1,7 @@
 // GET  /limits                        -> current limits (+ any pending increase)
 // POST /limits { "weekly_gambling_limit": 15, "per_bet_max": 10, "pause_hours": 48 }
 // Lowering a limit or pausing applies immediately. Raising a limit waits 48 hours (cooling-off).
-import { admin, corsHeaders, json, resolveUserId } from "../_shared/db.ts";
+import { admin, corsHeaders, json, nowUtc, resolveUserId } from "../_shared/db.ts";
 
 const COOLING_OFF_HOURS = 48;
 
@@ -16,7 +16,7 @@ Deno.serve(async (req) => {
     if (req.method === "GET") return json({ limits: current });
 
     const body = await req.json();
-    const now = new Date();
+    const now = nowUtc();
     const immediate: Record<string, unknown> = {};
     const pending: Record<string, number> = {};
 

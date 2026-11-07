@@ -7,7 +7,7 @@
 //   "bookmaker_odds": [1.80, 2.10] // optional decimal odds; FIRST = the outcome being bought
 //   "fair_probability": 0.538      // optional alternative to bookmaker_odds
 // }
-import { admin, corsHeaders, json, loadContext, resolveUserId, today } from "../_shared/db.ts";
+import { admin, corsHeaders, json, loadContext, nowUtc, resolveUserId, today } from "../_shared/db.ts";
 import { forecast } from "../_shared/forecast.ts";
 import { affordability, deMargin, hiddenCost, overall } from "../_shared/stake.ts";
 
@@ -31,7 +31,7 @@ Deno.serve(async (req) => {
 
     const rules = affordability({
       stake, limits: ctx.limits, transactions: ctx.transactions, classifications: ctx.classifications,
-      now: new Date(), forecastWithStake: withStake, forecastWithout: without,
+      now: nowUtc(), forecastWithStake: withStake, forecastWithout: without,
     });
 
     let fair: number | null = null;

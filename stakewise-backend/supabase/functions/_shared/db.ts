@@ -1,6 +1,7 @@
 // Database access + request helpers shared by every edge function.
 import { createClient, type SupabaseClient } from "npm:@supabase/supabase-js@2";
 import { classifyWithRules, merchantKey } from "./detect.ts";
+import { nowUtc, today } from "./clock.ts";
 import type { Classification, Limits, Transaction } from "./types.ts";
 
 export const corsHeaders = {
@@ -32,10 +33,8 @@ export async function resolveUserId(req: Request, db: SupabaseClient): Promise<s
   return Deno.env.get("DEMO_MODE") === "true" ? (Deno.env.get("DEMO_USER_ID") ?? DEMO_USER_ID) : null;
 }
 
-/** "Today" for the demo can be pinned so the story is the same every run. */
-export function today(): string {
-  return Deno.env.get("DEMO_TODAY") ?? new Date().toISOString().slice(0, 10);
-}
+// "Today" / "now" can be pinned for the demo (see clock.ts)
+export { nowUtc, today };
 
 export interface UserContext {
   userId: string;
@@ -77,7 +76,7 @@ export async function loadContext(db: SupabaseClient, userId: string): Promise<U
 
   // Apply any limit increase whose 48h cooling-off has passed
   let limits = lim.data as (Limits & { pending_increase: Record<string, number> | null; pending_effective_at: string | null }) | null;
-  if (limits?.pending_increase && limits.pending_effective_at && Date.parse(limits.pending_effective_at) <= Date.now()) {
+  if (limits?.pending_increase && limits.pending_effective_at && Date.parse(limits.pending_effective_at) <= nowUtc().getTime()) {
     const { data } = await db.from("limits")
       .update({ ...limits.pending_increase, pending_increase: null, pending_effective_at: null })
       .eq("user_id", userId).select().single();

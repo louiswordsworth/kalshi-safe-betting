@@ -6,6 +6,8 @@ import { forecast } from "../supabase/functions/_shared/forecast.ts";
 import { affordability, deMargin, hiddenCost, overall } from "../supabase/functions/_shared/stake.ts";
 import { buildFacts, numbersAreGrounded, templateMessage } from "../supabase/functions/_shared/coach.ts";
 import { suggestWeeklyLimit } from "../supabase/functions/_shared/insights.ts";
+import { coach } from "../supabase/functions/_shared/coach.ts";
+import { nowUtc, today } from "../supabase/functions/_shared/clock.ts";
 import type { Transaction } from "../supabase/functions/_shared/types.ts";
 
 const txs = fx.transactions as Transaction[];
@@ -110,4 +112,50 @@ Deno.test("coach: template uses only grounded numbers; invented numbers are caug
   assert(numbersAreGrounded(`${msg.headline} ${msg.body} ${msg.action.label}`, facts), msg.body);
   assertEquals(msg.action.type, "set_weekly_limit");
   assertEquals(numbersAreGrounded("You'll be £9999 short", facts), false);
+});
+
+Deno.test("coach and forecast agree: the coach's with-limit numbers equal the forecast endpoint's for the same cap", () => {
+  const base = forecast(input);
+  const { limit, result } = suggestWeeklyLimit(input, base.gambling_weekly_pace);
+  const viaForecastEndpoint = forecast({ ...input, gamblingWeeklyCap: limit });
+  assertEquals(result.balance_at_next_big_bill, viaForecastEndpoint.balance_at_next_big_bill);
+  assertEquals(result.shortfall_probability, viaForecastEndpoint.shortfall_probability);
+  const facts = buildFacts("Priya", base, result, limit, [], 406);
+  assertEquals(facts.with_limit_balance_at_bill_typical, Math.round(viaForecastEndpoint.balance_at_next_big_bill!.p50));
+  assertEquals(facts.with_limit_shortfall_chance_pct, Math.round(viaForecastEndpoint.shortfall_probability * 100));
+});
+
+Deno.test("clock: a pinned demo date never falls back to the real clock", () => {
+  Deno.env.set("DEMO_TODAY", "2026-11-07");
+  try {
+    assertEquals(today(), "2026-11-07");
+    assertEquals(nowUtc().toISOString(), "2026-11-07T12:00:00.000Z");
+    Deno.env.set("DEMO_NOW", "2026-11-07T00:30:00Z");
+    assertEquals(nowUtc().toISOString(), "2026-11-07T00:30:00.000Z");
+  } finally { Deno.env.delete("DEMO_TODAY"); Deno.env.delete("DEMO_NOW"); }
+});
+
+Deno.test("detect: the ambiguous Wise transfer is put to the user (0.4 must not round down to not_gambling)", () => {
+  const wise = byDesc("WISE INTL TRANSFER")[0];
+  assertEquals(wise.label, "ask_user");
+  assert(wise.confidence >= 0.4);
+});
+
+Deno.test("coach: an LLM reply with an invented action value or non-ASCII digits is replaced by the template", async () => {
+  const base = forecast(input);
+  const { limit, result } = suggestWeeklyLimit(input, base.gambling_weekly_pace);
+  const facts = buildFacts("Priya", base, result, limit, [], 406);
+  const realFetch = globalThis.fetch;
+  Deno.env.set("LLM_API_KEY", "test");
+  const reply = (o: unknown) => { globalThis.fetch = (() => Promise.resolve(new Response(JSON.stringify({ choices: [{ message: { content: JSON.stringify(o) } }] })))) as typeof fetch; };
+  try {
+    reply({ headline: "Rent could be tight", body: "You could be about £148 short.", action: { label: "Set a limit", type: "set_weekly_limit", value: 500 }, support_link: false });
+    assertEquals((await coach(facts)).source, "template");
+    reply({ headline: "Rent could be tight", body: "आप £९९९ कम पड़ सकते हैं", action: { label: "x", type: "none" }, support_link: false });
+    assertEquals((await coach(facts, { language: "Hindi" })).source, "template");
+    reply({ headline: "Rent could be tight", body: "You could be about £148 short.", action: { label: `Set a £${limit} limit`, type: "set_weekly_limit", value: limit }, support_link: false });
+    const ok = await coach(facts);
+    assertEquals(ok.source, "llm");
+    assertEquals(ok.support_link, true); // shortfall chance is 93%, so help is always offered
+  } finally { globalThis.fetch = realFetch; Deno.env.delete("LLM_API_KEY"); }
 });

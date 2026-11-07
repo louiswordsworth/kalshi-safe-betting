@@ -9,7 +9,7 @@ export function suggestWeeklyLimit(input: Omit<ForecastInput, "gamblingWeeklyCap
   const max = Math.max(5, Math.floor(pace / 5) * 5);
   let best: { limit: number; result: ForecastResult } | null = null;
   for (let cap = 5; cap <= max; cap += 5) {
-    const result = forecast({ ...input, gamblingWeeklyCap: cap, runs: 300 });
+    const result = forecast({ ...input, gamblingWeeklyCap: cap }); // same default runs as the forecast endpoint, so both agree
     const atBill = result.balance_at_next_big_bill?.p50 ?? result.days.at(-1)!.p50;
     if (atBill >= buffer && result.shortfall_probability <= 0.1) best = { limit: cap, result };
     else break;

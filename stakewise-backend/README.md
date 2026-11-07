@@ -26,8 +26,8 @@ Her betting has moved from small Sky Bet stakes to crypto and Skrill top-ups, of
 
 | | Current pace (~£108/week) | With the suggested £30/week limit |
 |---|---|---|
-| Typical balance on rent day | **−£148** | **+£90** |
-| Chance of going short before rent | **93%** | **8%** |
+| Typical balance on rent day | **−£148** | **+£83** |
+| Chance of going short before rent | **93%** | **9%** |
 
 Betting spend over the last 28 days is up 406% on the 28 days before.
 If she tries a £40 stake in the overlay, it's blocked, because it would leave her short on rent day.
@@ -48,7 +48,7 @@ supabase/
     _shared/db.ts         Supabase client, auth/demo user, data loading
     classify-transactions/  forecast/  coach/  check-stake/  limits/  feedback/
 scripts/generate_seed.py  regenerates seed.sql + tests/fixtures.json
-tests/core_test.ts        13 unit tests for the core logic
+tests/core_test.ts        17 unit tests for the core logic
 ```
 
 ## Setup
@@ -70,7 +70,7 @@ supabase functions deploy classify-transactions forecast coach check-stake limit
 | Secret | Value |
 |---|---|
 | `DEMO_MODE` | `true`, so requests without a signed-in user use Priya |
-| `DEMO_TODAY` | `2026-11-07`, which pins "today" so the story is the same every run |
+| `DEMO_TODAY` | `2026-11-07`, which pins "today" (and "now", at noon UTC) so the story is the same every run. Optional `DEMO_NOW` pins the exact moment, e.g. `2026-11-07T00:30:00Z` to demo the late-night rule |
 | `LLM_API_KEY` | your LLM key (or `LOVABLE_API_KEY` if using Lovable AI) |
 | `LLM_API_URL` | an OpenAI-compatible chat-completions URL. The default is Lovable's AI gateway, so check Lovable's docs for the current URL |
 | `LLM_MODEL` | e.g. `google/gemini-2.5-flash` or `gpt-4o-mini` |

@@ -71,6 +71,9 @@ Return JSON: {"headline": string (max 12 words), "body": string (max 60 words),
 
 /** Every number in the output must appear in the facts (or be the action value). */
 export function numbersAreGrounded(text: string, facts: CoachFacts): boolean {
+  // \d only matches 0-9, so digits from other scripts (e.g. Hindi, Arabic) would slip past the check.
+  // Treat them as ungrounded; the caller falls back to the template.
+  if (/(?!\d)\p{Nd}/u.test(text)) return false;
   const allowed = new Set<string>();
   const walk = (v: unknown) => {
     if (typeof v === "number") { allowed.add(String(Math.abs(v))); allowed.add(String(Math.abs(Math.round(v)))); }
@@ -106,12 +109,21 @@ export function templateMessage(f: CoachFacts): CoachMessage {
 }
 
 export async function coach(facts: CoachFacts, opts: { language?: string; plainLanguage?: boolean } = {}): Promise<CoachMessage> {
-  const user = `LANGUAGE: ${opts.language ?? "English"}\nplain_language: ${opts.plainLanguage ?? true}\nFACTS:\n${JSON.stringify(facts)}`;
+  // Data minimisation: the model never sees the user's name
+  const { first_name: _name, ...modelFacts } = facts;
+  const user = `LANGUAGE: ${opts.language ?? "English"}\nplain_language: ${opts.plainLanguage ?? true}\nFACTS:\n${JSON.stringify(modelFacts)}`;
   const out = await chatJson<Omit<CoachMessage, "source">>(SYSTEM, user);
   if (!out || !out.headline || !out.body) return templateMessage(facts);
   if (!numbersAreGrounded(`${out.headline} ${out.body} ${out.action?.label ?? ""}`, facts)) {
     console.warn("Coach output contained ungrounded numbers; using template");
     return templateMessage(facts);
   }
-  return { ...out, source: "llm" };
+  // The action is data the UI will act on, so it is checked too (a made-up limit value must never reach the button)
+  const TYPES = ["set_weekly_limit", "pause_48h", "talk_to_someone", "none"];
+  const a = out.action;
+  if (!a || !TYPES.includes(a.type) || (a.type === "set_weekly_limit" && a.value !== facts.suggested_weekly_limit)) {
+    console.warn("Coach output had an invalid action; using template");
+    return templateMessage(facts);
+  }
+  return { ...out, support_link: out.support_link === true || facts.shortfall_chance_pct >= 70, source: "llm" };
 }

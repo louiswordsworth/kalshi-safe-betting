@@ -121,10 +121,11 @@ export function classifyWithRules(
       if (Math.abs(t.amount) % 10 === 0) { conf += 0.04; reasons.push("Round-number amount"); }
       conf = Math.min(conf, 0.95);
     }
+    conf = Math.round(conf * 100) / 100; // label from the same value we store (avoids 0.39999999999999997)
 
     out.push({
       transaction_id: t.id, label: labelFor(conf), category: base.category,
-      confidence: Math.round(conf * 100) / 100, reasons, source: "rules",
+      confidence: conf, reasons, source: "rules",
     });
   }
   return out;
